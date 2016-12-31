@@ -3,14 +3,14 @@
 			<p class="korpo2">0.1 <a href="0.1.html">Quo esas Ido?</a></p>
 			<p class="korpo2">0.2 <a href="0.2.html">Konstato</a></p>
 			<p class="korpo2">0.3 <a href="0.3.html">Averto</a></p>
-		<div class="ui divider" style="margin-left: 20px;"></div>
+		<div class="ui divider" style="margin-left: 10px;"></div>
 		<h2 class="korpo1">Unesma chapitro - Morfologio e sintaxo</h2>
 			<p class="korpo2">1.1 <a href="1.1.html">Alfabeto</a></p>
 			<h3 class="korpo2">Pronuncado</h3>
 				<p class="korpo3">1.2.1 <a href="1.2.1.html">Vokali</a></p>
 				<p class="korpo3">1.2.2 <a href="1.2.2.html">Konsonanti</a></p>
 				<p class="korpo3">1.2.3 <a href="1.2.3.html">Diagrami</a></p>
-			<div class="ui divider" style="margin-left: 40px;"></div>
+			<div class="ui divider" style="margin-left: 20px;"></div>
 			<p class="korpo2">1.3 <a href="1.3.html">Tonika acento</a></p>
 			<p class="korpo2">1.4 <a href="1.4.html">Artiklo</a></p>
 			<p class="korpo2">1.5 <a href="1.5.html">Substantivo</a></p>
@@ -31,7 +31,7 @@
 				<p class="korpo3">1.15.5 <a href="1.15.5.html">Reflektiva</a></p>
 				<p class="korpo3">1.15.6 <a href="1.15.6.html">Reciproka</a></p>
 				<p class="korpo3">1.15.7 <a href="1.15.7.html">Unpersona</a></p>
-			<div class="ui divider" style="margin-left: 40px;"></div>
+			<div class="ui divider" style="margin-left: 20px;"></div>
 			<h3 class="korpo2">Adverbo</h3>
 				<p class="korpo3">1.16.1 <a href="1.16.1.html">Di quanteso</a></p>
 				<p class="korpo3">1.16.2 <a href="1.16.2.html">Di tempo</a></p>
@@ -40,7 +40,7 @@
 				<p class="korpo3">1.16.5 <a href="1.16.5.html">Di afirmo</a></p>
 				<p class="korpo3">1.16.6 <a href="1.16.6.html">Nego</a></p>
 				<p class="korpo3">1.16.7 <a href="1.16.7.html">Dubo</a></p>
-			<div class="ui divider" style="margin-left: 40px;"></div>
+			<div class="ui divider" style="margin-left: 20px;"></div>
 			<h3 class="korpo2"><a href="1.17.html">Prepozicioni</a></h3>
 				<p class="korpo3">1.17.1 <a href="1.17.1.html">ad/a</a></p>
 				<p class="korpo3">1.17.2 <a href="1.17.2.html">alonge</a></p>
@@ -90,7 +90,7 @@
 				<p class="korpo3">1.17.46 <a href="1.17.46.html">Plaso di la komplemento di prepoziciono</a></p>
 				<p class="korpo3">1.17.47 <a href="1.17.47.html">Prepozicioni avan infinitivo</a></p>
 				<p class="korpo3">1.17.48 <a href="1.17.48.html">Prepozicioni kun verbi</a></p>
-			<div class="ui divider" style="margin-left: 40px;"></div>
+			<div class="ui divider" style="margin-left: 20px;"></div>
 			<h3 class="korpo2">Konjuncioni</h3>
 				<h4 class="korpo3">Koordinala</h4>
 					<p class="korpo4">1.18.1.1 <a href="1.18.1.1.html">do</a></p>
@@ -104,16 +104,17 @@
 					<p class="korpo4">1.18.1.9 <a href="1.18.1.9.html">lore</a></p>
 					<p class="korpo4">1.18.1.10 <a href="1.18.1.10.html">nek</a></p>
 					<p class="korpo4">1.18.1.11 <a href="1.18.1.11.html">yen</a></p>
-				<div class="ui divider" style="margin-left: 80px;"></div>
+				<div class="ui divider" style="margin-left: 30px;"></div>
 				<h4 class="korpo3">Subordinala</h4>
 					<p class="korpo4">1.18.2.1 <a href="1.18.2.1.html">ke</a></p>
 					<p class="korpo4">1.18.2.2 <a href="1.18.2.2.html">se</a></p>
 					<p class="korpo4">1.18.2.3 <a href="1.18.2.3.html">se nur</a></p>
 					<p class="korpo4">1.18.2.4 <a href="1.18.2.4.html">quale se</a></p>
 					<p class="korpo4">1.18.2.5 <a href="1.18.2.5.html">quankam</a></p>
+				<div class="ui divider" style="margin-left: 30px;"></div>
 				<p class="korpo3">1.18.3 <a href="1.18.3.html">Konjuncioni kompozita</a></p>
 				<p class="korpo3">1.18.4 <a href="1.18.4.html">Konjuncioni questionala</a></p>
-			<div class="ui divider" style="margin-left: 40px;"></div>
+			<div class="ui divider" style="margin-left: 20px;"></div>
 			<h3 class="korpo2">Interjecioni</h3>
 				<p class="korpo3">1.19.1 <a href="1.19.1.html">aye</a></p>
 				<p class="korpo3">1.19.2 <a href="1.19.2.html">ba</a></p>
@@ -135,7 +136,7 @@
 				<p class="korpo3">1.19.18 <a href="1.19.18.html">psit</a></p>
 				<p class="korpo3">1.19.19 <a href="1.19.19.html">shut</a></p>
 				<p class="korpo3">1.19.20 <a href="1.19.20.html">sus</a></p>
-			<div class="ui divider" style="margin-left: 40px;"></div>
+			<div class="ui divider" style="margin-left: 20px;"></div>
 			<h3 class="korpo2">Nombro</h3>
 				<p class="korpo3">1.20.1 <a href="1.20.1.html">Kardinala</a></p>
 				<p class="korpo3">1.20.2 <a href="1.20.2.html">Kompozita</a></p>
@@ -146,11 +147,11 @@
 				<p class="korpo3">1.20.7 <a href="1.20.7.html">Expresuri distributiva</a></p>
 				<p class="korpo3">1.20.8 <a href="1.20.8.html">La hori</a></p>
 				<p class="korpo3">1.20.9 <a href="1.20.9.html">En matematiko</a></p>
-			<div class="ui divider" style="margin-left: 40px;"></div>
+			<div class="ui divider" style="margin-left: 20px;"></div>
 			<h3 class="korpo2">Sintaxo</h3>
 				<p class="korpo3">1.21.1 <a href="1.21.1.html">Vortordino</a></p>
 				<p class="korpo3">1.21.2 <a href="1.21.2.html">Inversigo e « n » inversigala (akuzativo)</a></p>
-			<div class="ui divider" style="margin-left: 40px;"></div>
+			<div class="ui divider" style="margin-left: 20px;"></div>
 			<h3 class="korpo2">Tempo e modo</h3>
 				<p class="korpo3">1.22.1 <a href="1.22.1.html">Indikativo (prezenta, pasinta, futura)</a></p>
 				<p class="korpo3">1.22.2 <a href="1.22.2.html">Kondicionalo</a></p>
@@ -161,20 +162,20 @@
 				<p class="korpo3">1.22.7 <a href="1.22.7.html">Participi</a></p>
 				<p class="korpo3">1.22.8 <a href="1.22.8.html">Absoluta participo</a></p>
 				<p class="korpo3">1.22.9 <a href="1.22.9.html">Substantiva participi</a></p>
-		<div class="ui divider" style="margin-left: 20px;"></div>
+		<div class="ui divider" style="margin-left: 10px;"></div>
 		<h2 class="korpo1">Duesma chapitro - Vortifado</h2>
 			<p class="korpo2">2.1 <a href="2.1.html">Elementi di vorto</a></p>
 			<h3 class="korpo2">Procedi di vortifado</h3>
 				<p class="korpo3">2.2.1 <a href="2.2.1.html">Radiki</a></p>
 				<p class="korpo3">2.2.2 <a href="2.2.2.html">Dezinenci</a></p>
-			<div class="ui divider" style="margin-left: 40px;"></div>
+			<div class="ui divider" style="margin-left: 20px;"></div>
 			<h3 class="korpo2">Nemediata derivado</h3>
 				<p class="korpo3">2.3.1 <a href="2.3.1.html">Substantivo nemediate formacita de verbo</a></p>
 				<p class="korpo3">2.3.2 <a href="2.3.2.html">Adjektivo nemediate formacita de substantivo</a></p>
 				<p class="korpo3">2.3.3 <a href="2.3.3.html">Adverbo nemediate formacita de adjektivo</a></p>
 				<p class="korpo3">2.3.4 <a href="2.3.4.html">Adjektivo de adverbo</a></p>
 				<p class="korpo3">2.3.5 <a href="2.3.5.html">Verbo de radiko neverbala</a></p>
-			<div class="ui divider" style="margin-left: 40px;"></div>
+			<div class="ui divider" style="margin-left: 20px;"></div>
 			<p class="korpo2">2.4 <a href="2.4.html">Mediata derivado</a></p>
 			<h3 class="korpo2"><a href="2.5.html">Afixi</a></h3>
 				<h4 class="korpo3">Prefixi</h4>
@@ -202,9 +203,9 @@
 						<p class="korpo5">2.5.1.21.1 <a href="2.5.1.21.1.html">equi-</a></p>
 						<p class="korpo5">2.5.1.21.2 <a href="2.5.1.21.2.html">ko-</a></p>
 						<p class="korpo5">2.5.1.21.3 <a href="2.5.1.21.3.html">mono-</a></p>
-					<div class="ui divider" style="margin-left: 80px;"></div>
+					<div class="ui divider" style="margin-left: 40px;"></div>
 					<p class="korpo4">2.5.1.22 <a href="2.5.1.22.html">Prefixa prepozicioni</a></p>
-				<div class="ui divider" style="margin-left: 60px;"></div>
+				<div class="ui divider" style="margin-left: 30px;"></div>
 				<h4 class="korpo3">Sufixi</h4>
 					<p class="korpo4">2.5.2.1 <a href="2.5.2.1.html">-ab-</a></p>
 					<p class="korpo4">2.5.2.2 <a href="2.5.2.2.html">-ach-</a></p>
@@ -249,7 +250,7 @@
 					<p class="korpo4">2.5.2.41 <a href="2.5.2.41.html">-ur-</a></p>
 					<p class="korpo4">2.5.2.42 <a href="2.5.2.42.html">-uy-</a></p>
 					<p class="korpo4">2.5.2.43 <a href="2.5.2.43.html">-yun-</a></p>
-			<div class="ui divider" style="margin-left: 40px;"></div>
+			<div class="ui divider" style="margin-left: 20px;"></div>
 			<h3 class="korpo2">Kompozado</h3>
 				<p class="korpo3">2.6.1 <a href="2.6.1.html">Substantivo kun substantivo</a></p>
 				<p class="korpo3">2.6.2 <a href="2.6.2.html">Substantivo kun verbo</a></p>
@@ -257,11 +258,11 @@
 				<p class="korpo3">2.6.4 <a href="2.6.4.html">Prepoziciono kun verbo</a></p>
 				<p class="korpo3">2.6.5 <a href="2.6.5.html">Prepoziciono o nombro-nomo kun adj ekti-vo o substantivo</a></p>
 				<p class="korpo3">2.6.6 <a href="2.6.6.html">Irga adjektivo kun radiko igita adjektivo o adverbo</a></p>
-			<div class="ui divider" style="margin-left: 40px;"></div>
+			<div class="ui divider" style="margin-left: 20px;"></div>
 			<p class="korpo2">2.7 <a href="2.7.html">Regulo di analizo o deskompozo</a></p>
 			<p class="korpo2">2.8 <a href="2.8.html">Kompozado prepozicioni</a></p>
 			<p class="korpo2">2.9 <a href="2.9.html">La kompozaji e la sufixi</a></p>
-		<div class="ui divider" style="margin-left: 20px;"></div>
+		<div class="ui divider" style="margin-left: 10px;"></div>
 		<h2 class="korpo1">Apendici</h2>
 			<p class="korpo2">3.1 <a href="3.1.html">L'acentizo en Ido</a></p>
 			<p class="korpo2">3.2 <a href="3.2.html">La pluralo por -i</a></p>
