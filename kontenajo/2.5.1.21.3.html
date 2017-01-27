@@ -1,0 +1,53 @@
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<script src="../jquery/jquery-3.1.1.min.js"></script>
+		<link href="../stilo/stilo.css" rel="stylesheet" type="text/css">
+		<script src="../semantic/dist/semantic.min.js"></script>
+		<link href="../semantic/dist/semantic.css" rel="stylesheet" type="text/css">
+		<script>
+			$(function(){
+				$("#menuo").load("menuo.xml"); 
+			});
+		</script>
+		<script>
+			$(document).ready(function() {
+				$("#indexo").click(function() {
+					$('.ui.sidebar')
+						.sidebar('setting', 'transition', 'overlay')
+						.sidebar('toggle')
+					;
+				});
+			});
+		</script>
+	</head>
+	<body>
+		<div class="ui sidebar inverted vertical menu">
+			<div id="menuo"></div>
+		</div>
+		<div style="margin-top:40px; margin-bottom:40px; margin-left:40px; margin-right:40px">
+			<center>
+				<a class="ui primary left attached icon button" href="../index.html"><i class="home icon"></i></a>
+				<a class="ui primary right attached icon button" id="indexo"><i class="list layout icon"></i></a>
+			</center>
+			<h1>mono-</h1>
+			<div class="ui divider"></div>
+			<p>Ol signifikas: <i>un</i>. Ex.: <b>monosilabo</b>, <b>monokotiledona</b>, <b>monokordo</b>. La linguo komuna uzas <i>un-</i>: <b>unlatera</b>, <b>unnoma</b>, <b>unpersona</b>, ma ol admisas la vorti internaciona qui komencas per <i>mono</i>: <b>monogramo</b>, <b>monotona</b>, e.c.</p>
+			<p>Pro analogeso, e pro la sama motivi qui impozis <b>mono-</b>, <b>bi-</b>, l'Akademio<sup><a name="Noto1" href="#Paginonoto1">[1]</a></sup> adoptis: <b>tri-</b>, <b>quadri-</b>, <b>quinqua-</b>, <b>sexa-</b>, <b>septua-</b>, <b>okto-</b>, <b>nona-</b> (<i>Progreso</i>, IV, 567).</p>
+			<p>L'Akademio repulsis<sup><a name="Noto2" href="#Paginonoto2">[2]</a></sup> la serio de prefixi: <b>di-</b>, <b>tetra-</b>, <b>penta-</b>, <b>hexa-</b>, <b>hepta-</b>, <b>okto-</b>, <b>ennea-</b> (<i>Progreso</i>, IV, 567).</p>
+			<p>Kompreneble on sequas la generala reguli di nia linguo omnube li esas suficanta a la justa expreso dil idei: <b>mi-</b> vice la tri prefixi: <i>hemi-</i>, <i>semi-</i> e <i>demi-</i>, quo liberigas ni tre fortunoze de lia jenanta konkuro e de multa heziti (<i>mi-axo</i>, <i>mi-cirklo</i>, <i>mi-ombro</i>, <i>mi-plano</i>, <i>mi-sekanto</i>, <i>mi-sfero</i>. Same <i>ne-</i> vice la Latina <i>in-</i> o la D., E. <i>un-</i>: <i>nesimila</i>, <i>nevarianta</i>).</p>
+			<div class="ui divider"></div>
+			<div style="margin-left:40; color:#4c4c4c;">
+				<p><a name="Paginonoto1" href="#Noto1">[1]</a> Plu precize: la teknikala subkomitato.</p>
+				<p><a name="Paginonoto2" href="#Noto2">[2]</a> N.B.: Kom generala <i>prefixi</i> aplikebla ad irga radiko, nam lore on devus selektar e hezitar en singla kazo inter du prefixi. Ma on ne exkluzas la posibleso adoptar, kom integra radiki, vorti kompozita per ta greka prefixi.</p>
+			</div>
+			<div class="ui divider"></div>
+			<center>
+				<div class="ui buttons">
+					<a class="ui left labeled icon button" href="2.5.1.21.2.html"><i class="left arrow icon"></i>Preiranta pagino</a>
+					<a class="ui right labeled icon button" href="2.5.1.22.html">Sequanta pagino<i class="right arrow icon"></i></a>
+				</div>
+			</center>
+		</div>
+	</body>
+</html>

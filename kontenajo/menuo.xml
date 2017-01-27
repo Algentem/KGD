@@ -1,276 +1,256 @@
-	<h1><a href="../index.html">KGD enreta</a></h1>
-		<h2 class="korpo1">Prefaco</h2>
-			<p class="korpo2">0.1 <a href="0.1.html">Quo esas Ido?</a></p>
-			<p class="korpo2">0.2 <a href="0.2.html">Konstato</a></p>
-			<p class="korpo2">0.3 <a href="0.3.html">Averto</a></p>
-		<div class="ui divider" style="margin-left: 10px;"></div>
-		<h2 class="korpo1">Unesma chapitro - Morfologio e sintaxo</h2>
-			<p class="korpo2">1.1 <a href="1.1.html">Alfabeto</a></p>
-			<h3 class="korpo2">Pronuncado</h3>
-				<p class="korpo3">1.2.1 <a href="1.2.1.html">Vokali</a></p>
-				<p class="korpo3">1.2.2 <a href="1.2.2.html">Konsonanti</a></p>
-				<p class="korpo3">1.2.3 <a href="1.2.3.html">Diagrami</a></p>
-			<div class="ui divider" style="margin-left: 20px;"></div>
-			<p class="korpo2">1.3 <a href="1.3.html">Tonika acento</a></p>
-			<p class="korpo2">1.4 <a href="1.4.html">Artiklo</a></p>
-			<p class="korpo2">1.5 <a href="1.5.html">Substantivo</a></p>
-			<p class="korpo2">1.6 <a href="1.6.html">Propra nomi</a></p>
-			<p class="korpo2">1.7 <a href="1.7.html">Adjektivo qualifikanta e lua plaso</a></p>
-			<p class="korpo2">1.8 <a href="1.8.html">Gradi komparala</a></p>
-			<p class="korpo2">1.9 <a href="1.9.html">Personala pronomi</a></p>
-			<p class="korpo2">1.10 <a href="1.10.html">Posedala adjektivi e pronomi</a></p>
-			<p class="korpo2">1.11 <a href="1.11.html">Demonstrativa adjektivi-pronomi</a></p>
-			<p class="korpo2">1.12 <a href="1.12.html">Relativa e questionala adjektivi-pronomi</a></p>
-			<p class="korpo2">1.13 <a href="1.13.html">La pronomo « lo »</a></p>
-			<p class="korpo2">1.14 <a href="1.14.html">Nedefinita adjektivi-pronomi</a></p>
-			<h3 class="korpo2">Verbo</h3>
-				<p class="korpo3">1.15.1 <a href="1.15.1.html">Transitiva</a></p>
-				<p class="korpo3">1.15.2 <a href="1.15.2.html">Netransitiva</a></p>
-				<p class="korpo3">1.15.3 <a href="1.15.3.html">Pasiva</a></p>
-				<p class="korpo3">1.15.4 <a href="1.15.4.html">Mixita</a></p>
-				<p class="korpo3">1.15.5 <a href="1.15.5.html">Reflektiva</a></p>
-				<p class="korpo3">1.15.6 <a href="1.15.6.html">Reciproka</a></p>
-				<p class="korpo3">1.15.7 <a href="1.15.7.html">Unpersona</a></p>
-			<div class="ui divider" style="margin-left: 20px;"></div>
-			<h3 class="korpo2">Adverbo</h3>
-				<p class="korpo3">1.16.1 <a href="1.16.1.html">Di quanteso</a></p>
-				<p class="korpo3">1.16.2 <a href="1.16.2.html">Di tempo</a></p>
-				<p class="korpo3">1.16.3 <a href="1.16.3.html">Di loko</a></p>
-				<p class="korpo3">1.16.4 <a href="1.16.4.html">Di maniero</a></p>
-				<p class="korpo3">1.16.5 <a href="1.16.5.html">Di afirmo</a></p>
-				<p class="korpo3">1.16.6 <a href="1.16.6.html">Nego</a></p>
-				<p class="korpo3">1.16.7 <a href="1.16.7.html">Dubo</a></p>
-			<div class="ui divider" style="margin-left: 20px;"></div>
-			<h3 class="korpo2"><a href="1.17.html">Prepozicioni</a></h3>
-				<p class="korpo3">1.17.1 <a href="1.17.1.html">ad/a</a></p>
-				<p class="korpo3">1.17.2 <a href="1.17.2.html">alonge</a></p>
-				<p class="korpo3">1.17.3 <a href="1.17.3.html">an</a></p>
-				<p class="korpo3">1.17.4 <a href="1.17.4.html">ante</a></p>
-				<p class="korpo3">1.17.5 <a href="1.17.5.html">apud</a></p>
-				<p class="korpo3">1.17.6 <a href="1.17.6.html">avan</a></p>
-				<p class="korpo3">1.17.7 <a href="1.17.7.html">che</a></p>
-				<p class="korpo3">1.17.8 <a href="1.17.8.html">cirkum</a></p>
-				<p class="korpo3">1.17.9 <a href="1.17.9.html">cis</a></p>
-				<p class="korpo3">1.17.10 <a href="1.17.10.html">da</a></p>
-				<p class="korpo3">1.17.11 <a href="1.17.11.html">de</a></p>
-				<p class="korpo3">1.17.12 <a href="1.17.12.html">di</a></p>
-				<p class="korpo3">1.17.13 <a href="1.17.13.html">dop</a></p>
-				<p class="korpo3">1.17.14 <a href="1.17.14.html">dum</a></p>
-				<p class="korpo3">1.17.15 <a href="1.17.15.html">ek</a></p>
-				<p class="korpo3">1.17.16 <a href="1.17.16.html">en</a></p>
-				<p class="korpo3">1.17.17 <a href="1.17.17.html">erste</a></p>
-				<p class="korpo3">1.17.18 <a href="1.17.18.html">exter</a></p>
-				<p class="korpo3">1.17.19 <a href="1.17.19.html">for</a></p>
-				<p class="korpo3">1.17.20 <a href="1.17.20.html">inter</a></p>
-				<p class="korpo3">1.17.21 <a href="1.17.21.html">kontre</a></p>
-				<p class="korpo3">1.17.22 <a href="1.17.22.html">koram</a></p>
-				<p class="korpo3">1.17.23 <a href="1.17.23.html">kun</a></p>
-				<p class="korpo3">1.17.24 <a href="1.17.24.html">lor</a></p>
-				<p class="korpo3">1.17.25 <a href="1.17.25.html">malgre</a></p>
-				<p class="korpo3">1.17.26 <a href="1.17.26.html">per</a></p>
-				<p class="korpo3">1.17.27 <a href="1.17.27.html">po</a></p>
-				<p class="korpo3">1.17.28 <a href="1.17.28.html">por</a></p>
-				<p class="korpo3">1.17.39 <a href="1.17.29.html">pos</a></p>
-				<p class="korpo3">1.17.40 <a href="1.17.30.html">preter</a></p>
-				<p class="korpo3">1.17.31 <a href="1.17.31.html">pri</a></p>
-				<p class="korpo3">1.17.32 <a href="1.17.32.html">pro</a></p>
-				<p class="korpo3">1.17.33 <a href="1.17.33.html">proxim</a></p>
-				<p class="korpo3">1.17.34 <a href="1.17.34.html">segun</a></p>
-				<p class="korpo3">1.17.35 <a href="1.17.35.html">sen</a></p>
-				<p class="korpo3">1.17.36 <a href="1.17.36.html">sub</a></p>
-				<p class="korpo3">1.17.37 <a href="1.17.37.html">super</a></p>
-				<p class="korpo3">1.17.38 <a href="1.17.38.html">sur</a></p>
-				<p class="korpo3">1.17.49 <a href="1.17.39.html">til</a></p>
-				<p class="korpo3">1.17.40 <a href="1.17.40.html">tra</a></p>
-				<p class="korpo3">1.17.41 <a href="1.17.41.html">trans</a></p>
-				<p class="korpo3">1.17.42 <a href="1.17.42.html">ultre</a></p>
-				<p class="korpo3">1.17.43 <a href="1.17.43.html">vice</a></p>
-				<p class="korpo3">1.17.44 <a href="1.17.44.html">ye</a></p>
-				<p class="korpo3">1.17.45 <a href="1.17.45.html">Komplemento di adverbo prepoziciona</a></p>
-				<p class="korpo3">1.17.46 <a href="1.17.46.html">Plaso di la komplemento di prepoziciono</a></p>
-				<p class="korpo3">1.17.47 <a href="1.17.47.html">Prepozicioni avan infinitivo</a></p>
-				<p class="korpo3">1.17.48 <a href="1.17.48.html">Prepozicioni kun verbi</a></p>
-			<div class="ui divider" style="margin-left: 20px;"></div>
-			<h3 class="korpo2">Konjuncioni</h3>
-				<h4 class="korpo3">Koordinala</h4>
-					<p class="korpo4">1.18.1.1 <a href="1.18.1.1.html">do</a></p>
-					<p class="korpo4">1.18.1.2 <a href="1.18.1.2.html">ed/e</a></p>
-					<p class="korpo4">1.18.1.3 <a href="1.18.1.3.html">ma</a></p>
-					<p class="korpo4">1.18.1.4 <a href="1.18.1.4.html">nam</a></p>
-					<p class="korpo4">1.18.1.5 <a href="1.18.1.5.html">or</a></p>
-					<p class="korpo4">1.18.1.6 <a href="1.18.1.6.html">od/o</a></p>
-					<p class="korpo4">1.18.1.7 <a href="1.18.1.7.html">sive</a></p>
-					<p class="korpo4">1.18.1.8 <a href="1.18.1.8.html">tamen</a></p>
-					<p class="korpo4">1.18.1.9 <a href="1.18.1.9.html">lore</a></p>
-					<p class="korpo4">1.18.1.10 <a href="1.18.1.10.html">nek</a></p>
-					<p class="korpo4">1.18.1.11 <a href="1.18.1.11.html">yen</a></p>
-				<div class="ui divider" style="margin-left: 30px;"></div>
-				<h4 class="korpo3">Subordinala</h4>
-					<p class="korpo4">1.18.2.1 <a href="1.18.2.1.html">ke</a></p>
-					<p class="korpo4">1.18.2.2 <a href="1.18.2.2.html">se</a></p>
-					<p class="korpo4">1.18.2.3 <a href="1.18.2.3.html">se nur</a></p>
-					<p class="korpo4">1.18.2.4 <a href="1.18.2.4.html">quale se</a></p>
-					<p class="korpo4">1.18.2.5 <a href="1.18.2.5.html">quankam</a></p>
-				<div class="ui divider" style="margin-left: 30px;"></div>
-				<p class="korpo3">1.18.3 <a href="1.18.3.html">Konjuncioni kompozita</a></p>
-				<p class="korpo3">1.18.4 <a href="1.18.4.html">Konjuncioni questionala</a></p>
-			<div class="ui divider" style="margin-left: 20px;"></div>
-			<h3 class="korpo2">Interjecioni</h3>
-				<p class="korpo3">1.19.1 <a href="1.19.1.html">aye</a></p>
-				<p class="korpo3">1.19.2 <a href="1.19.2.html">ba</a></p>
-				<p class="korpo3">1.19.3 <a href="1.19.3.html">fi</a></p>
-				<p class="korpo3">1.19.4 <a href="1.19.4.html">ha</a></p>
-				<p class="korpo3">1.19.5 <a href="1.19.5.html">he</a></p>
-				<p class="korpo3">1.19.6 <a href="1.19.6.html">hem</a></p>
-				<p class="korpo3">1.19.7 <a href="1.19.7.html">ho</a></p>
-				<p class="korpo3">1.19.8 <a href="1.19.8.html">hola</a></p>
-				<p class="korpo3">1.19.9 <a href="1.19.9.html">hop</a></p>
-				<p class="korpo3">1.19.10 <a href="1.19.10.html">hu-hu</a></p>
-				<p class="korpo3">1.19.11 <a href="1.19.11.html">hura</a></p>
-				<p class="korpo3">1.19.12 <a href="1.19.12.html">krak</a></p>
-				<p class="korpo3">1.19.13 <a href="1.19.13.html">krik</a></p>
-				<p class="korpo3">1.19.14 <a href="1.19.14.html">krik-krak</a></p>
-				<p class="korpo3">1.19.15 <a href="1.19.15.html">nu</a></p>
-				<p class="korpo3">1.19.16 <a href="1.19.16.html">paf</a></p>
-				<p class="korpo3">1.19.17 <a href="1.19.17.html">plump</a></p>
-				<p class="korpo3">1.19.18 <a href="1.19.18.html">psit</a></p>
-				<p class="korpo3">1.19.19 <a href="1.19.19.html">shut</a></p>
-				<p class="korpo3">1.19.20 <a href="1.19.20.html">sus</a></p>
-			<div class="ui divider" style="margin-left: 20px;"></div>
-			<h3 class="korpo2">Nombro</h3>
-				<p class="korpo3">1.20.1 <a href="1.20.1.html">Kardinala</a></p>
-				<p class="korpo3">1.20.2 <a href="1.20.2.html">Kompozita</a></p>
-				<p class="korpo3">1.20.3 <a href="1.20.3.html">Ordinala</a></p>
-				<p class="korpo3">1.20.4 <a href="1.20.4.html">Fracionala</a></p>
-				<p class="korpo3">1.20.5 <a href="1.20.5.html">Multiplikera</a></p>
-				<p class="korpo3">1.20.6 <a href="1.20.6.html">Nombro de foyi</a></p>
-				<p class="korpo3">1.20.7 <a href="1.20.7.html">Expresuri distributiva</a></p>
-				<p class="korpo3">1.20.8 <a href="1.20.8.html">La hori</a></p>
-				<p class="korpo3">1.20.9 <a href="1.20.9.html">En matematiko</a></p>
-			<div class="ui divider" style="margin-left: 20px;"></div>
-			<h3 class="korpo2">Sintaxo</h3>
-				<p class="korpo3">1.21.1 <a href="1.21.1.html">Vortordino</a></p>
-				<p class="korpo3">1.21.2 <a href="1.21.2.html">Inversigo e « n » inversigala (akuzativo)</a></p>
-			<div class="ui divider" style="margin-left: 20px;"></div>
-			<h3 class="korpo2">Tempo e modo</h3>
-				<p class="korpo3">1.22.1 <a href="1.22.1.html">Indikativo (prezenta, pasinta, futura)</a></p>
-				<p class="korpo3">1.22.2 <a href="1.22.2.html">Kondicionalo</a></p>
-				<p class="korpo3">1.22.3 <a href="1.22.3.html">La konjuncioni ne influas la modo</a></p>
-				<p class="korpo3">1.22.4 <a href="1.22.4.html">Imperativo o volitivo</a></p>
-				<p class="korpo3">1.22.5 <a href="1.22.5.html">Expresuro « por ke » e volitivo</a></p>
-				<p class="korpo3">1.22.6 <a href="1.22.6.html">Infinitivi</a></p>
-				<p class="korpo3">1.22.7 <a href="1.22.7.html">Participi</a></p>
-				<p class="korpo3">1.22.8 <a href="1.22.8.html">Absoluta participo</a></p>
-				<p class="korpo3">1.22.9 <a href="1.22.9.html">Substantiva participi</a></p>
-		<div class="ui divider" style="margin-left: 10px;"></div>
-		<h2 class="korpo1">Duesma chapitro - Vortifado</h2>
-			<p class="korpo2">2.1 <a href="2.1.html">Elementi di vorto</a></p>
-			<h3 class="korpo2">Procedi di vortifado</h3>
-				<p class="korpo3">2.2.1 <a href="2.2.1.html">Radiki</a></p>
-				<p class="korpo3">2.2.2 <a href="2.2.2.html">Dezinenci</a></p>
-			<div class="ui divider" style="margin-left: 20px;"></div>
-			<h3 class="korpo2">Nemediata derivado</h3>
-				<p class="korpo3">2.3.1 <a href="2.3.1.html">Substantivo nemediate formacita de verbo</a></p>
-				<p class="korpo3">2.3.2 <a href="2.3.2.html">Adjektivo nemediate formacita de substantivo</a></p>
-				<p class="korpo3">2.3.3 <a href="2.3.3.html">Adverbo nemediate formacita de adjektivo</a></p>
-				<p class="korpo3">2.3.4 <a href="2.3.4.html">Adjektivo de adverbo</a></p>
-				<p class="korpo3">2.3.5 <a href="2.3.5.html">Verbo de radiko neverbala</a></p>
-			<div class="ui divider" style="margin-left: 20px;"></div>
-			<p class="korpo2">2.4 <a href="2.4.html">Mediata derivado</a></p>
-			<h3 class="korpo2"><a href="2.5.html">Afixi</a></h3>
-				<h4 class="korpo3">Prefixi</h4>
-					<p class="korpo4">2.5.1.1 <a href="2.5.1.1.html">anti-</a></p>
-					<p class="korpo4">2.5.1.2 <a href="2.5.1.2.html">arki-</a></p>
-					<p class="korpo4">2.5.1.3 <a href="2.5.1.3.html">auto-</a></p>
-					<p class="korpo4">2.5.1.4 <a href="2.5.1.4.html">bi-</a></p>
-					<p class="korpo4">2.5.1.5 <a href="2.5.1.5.html">bo-</a></p>
-					<p class="korpo4">2.5.1.6 <a href="2.5.1.6.html">des-</a></p>
-					<p class="korpo4">2.5.1.7 <a href="2.5.1.7.html">dis-</a></p>
-					<p class="korpo4">2.5.1.8 <a href="2.5.1.8.html">ex-</a></p>
-					<p class="korpo4">2.5.1.9 <a href="2.5.1.9.html">ge-</a></p>
-					<p class="korpo4">2.5.1.10 <a href="2.5.1.10.html">mi-</a></p>
-					<p class="korpo4">2.5.1.11 <a href="2.5.1.11.html">mis-</a></p>
-					<p class="korpo4">2.5.1.12 <a href="2.5.1.12-13.html">ne-</a></p>
-					<p class="korpo4">2.5.1.13 <a href="2.5.1.12-13.html">sen-</a></p>
-					<p class="korpo4">2.5.1.14 <a href="2.5.1.14.html">par-</a></p>
-					<p class="korpo4">2.5.1.15 <a href="2.5.1.15.html">para-</a></p>
-					<p class="korpo4">2.5.1.16 <a href="2.5.1.16.html">pre-</a></p>
-					<p class="korpo4">2.5.1.17 <a href="2.5.1.17.html">pseudo-</a></p>
-					<p class="korpo4">2.5.1.18 <a href="2.5.1.18.html">quadri-</a></p>
-					<p class="korpo4">2.5.1.19 <a href="2.5.1.19.html">retro-</a></p>
-					<p class="korpo4">2.5.1.20 <a href="2.5.1.20.html">ri-</a></p>
-					<h4 class="korpo4"><a href="2.5.1.21.html">Prefixi teknikala</a></h4>
-						<p class="korpo5">2.5.1.21.1 <a href="2.5.1.21.1.html">equi-</a></p>
-						<p class="korpo5">2.5.1.21.2 <a href="2.5.1.21.2.html">ko-</a></p>
-						<p class="korpo5">2.5.1.21.3 <a href="2.5.1.21.3.html">mono-</a></p>
-					<div class="ui divider" style="margin-left: 40px;"></div>
-					<p class="korpo4">2.5.1.22 <a href="2.5.1.22.html">Prefixa prepozicioni</a></p>
-				<div class="ui divider" style="margin-left: 30px;"></div>
-				<h4 class="korpo3">Sufixi</h4>
-					<p class="korpo4">2.5.2.1 <a href="2.5.2.1.html">-ab-</a></p>
-					<p class="korpo4">2.5.2.2 <a href="2.5.2.2.html">-ach-</a></p>
-					<p class="korpo4">2.5.2.3 <a href="2.5.2.3.html">-ad-</a></p>
-					<p class="korpo4">2.5.2.4 <a href="2.5.2.4.html">-ag-</a></p>
-					<p class="korpo4">2.5.2.5 <a href="2.5.2.5.html">-aj-</a></p>
-					<p class="korpo4">2.5.2.6 <a href="2.5.2.6.html">-al-</a></p>
-					<p class="korpo4">2.5.2.7 <a href="2.5.2.7.html">-an-</a></p>
-					<p class="korpo4">2.5.2.8 <a href="2.5.2.8.html">-ar-</a></p>
-					<p class="korpo4">2.5.2.9 <a href="2.5.2.9.html">-ari-</a></p>
-					<p class="korpo4">2.5.2.10 <a href="2.5.2.10.html">-atr-</a></p>
-					<p class="korpo4">2.5.2.11 <a href="2.5.2.11.html">-e-</a></p>
-					<p class="korpo4">2.5.2.12 <a href="2.5.2.12.html">-ebl-</a></p>
-					<p class="korpo4">2.5.2.13 <a href="2.5.2.13.html">-ed-</a></p>
-					<p class="korpo4">2.5.2.14 <a href="2.5.2.14.html">-eg-</a></p>
-					<p class="korpo4">2.5.2.15 <a href="2.5.2.15.html">-em-</a></p>
-					<p class="korpo4">2.5.2.16 <a href="2.5.2.16.html">-end-</a></p>
-					<p class="korpo4">2.5.2.17 <a href="2.5.2.17.html">-er-</a></p>
-					<p class="korpo4">2.5.2.18 <a href="2.5.2.18.html">-eri-</a></p>
-					<p class="korpo4">2.5.2.19 <a href="2.5.2.19.html">-es-</a></p>
-					<p class="korpo4">2.5.2.20 <a href="2.5.2.20.html">-esk-</a></p>
-					<p class="korpo4">2.5.2.21 <a href="2.5.2.21.html">-estr-</a></p>
-					<p class="korpo4">2.5.2.22 <a href="2.5.2.22.html">-et-</a></p>
-					<p class="korpo4">2.5.2.23 <a href="2.5.2.23.html">-ey-</a></p>
-					<p class="korpo4">2.5.2.24 <a href="2.5.2.24.html">-i-</a></p>
-					<p class="korpo4">2.5.2.25 <a href="2.5.2.25.html">-id-</a></p>
-					<p class="korpo4">2.5.2.26 <a href="2.5.2.26.html">-ier-</a></p>
-					<p class="korpo4">2.5.2.27 <a href="2.5.2.27.html">-if-</a></p>
-					<p class="korpo4">2.5.2.28 <a href="2.5.2.28.html">-ig-</a></p>
-					<p class="korpo4">2.5.2.29 <a href="2.5.2.29.html">-ik-</a></p>
-					<p class="korpo4">2.5.2.30 <a href="2.5.2.30.html">-il-</a></p>
-					<p class="korpo4">2.5.2.31 <a href="2.5.2.31.html">-in-</a></p>
-					<p class="korpo4">2.5.2.32 <a href="2.5.2.32.html">-ind-</a></p>
-					<p class="korpo4">2.5.2.33 <a href="2.5.2.33.html">-ism-</a></p>
-					<p class="korpo4">2.5.2.34 <a href="2.5.2.34.html">-ist-</a></p>
-					<p class="korpo4">2.5.2.35 <a href="2.5.2.35.html">-iv-</a></p>
-					<p class="korpo4">2.5.2.36 <a href="2.5.2.36.html">-iz-</a></p>
-					<p class="korpo4">2.5.2.37 <a href="2.5.2.37.html">-oz-</a></p>
-					<p class="korpo4">2.5.2.38 <a href="2.5.2.38.html">-ul-</a></p>
-					<p class="korpo4">2.5.2.39 <a href="2.5.2.39.html">-um-</a></p>
-					<p class="korpo4">2.5.2.40 <a href="2.5.2.40.html">-un-</a></p>
-					<p class="korpo4">2.5.2.41 <a href="2.5.2.41.html">-ur-</a></p>
-					<p class="korpo4">2.5.2.42 <a href="2.5.2.42.html">-uy-</a></p>
-					<p class="korpo4">2.5.2.43 <a href="2.5.2.43.html">-yun-</a></p>
-			<div class="ui divider" style="margin-left: 20px;"></div>
-			<h3 class="korpo2">Kompozado</h3>
-				<p class="korpo3">2.6.1 <a href="2.6.1.html">Substantivo kun substantivo</a></p>
-				<p class="korpo3">2.6.2 <a href="2.6.2.html">Substantivo kun verbo</a></p>
-				<p class="korpo3">2.6.3 <a href="2.6.3.html">Substantivo kun adjektivo (o radiko adjektivigita)</a></p>
-				<p class="korpo3">2.6.4 <a href="2.6.4.html">Prepoziciono kun verbo</a></p>
-				<p class="korpo3">2.6.5 <a href="2.6.5.html">Prepoziciono o nombro-nomo kun adj ekti-vo o substantivo</a></p>
-				<p class="korpo3">2.6.6 <a href="2.6.6.html">Irga adjektivo kun radiko igita adjektivo o adverbo</a></p>
-			<div class="ui divider" style="margin-left: 20px;"></div>
-			<p class="korpo2">2.7 <a href="2.7.html">Regulo di analizo o deskompozo</a></p>
-			<p class="korpo2">2.8 <a href="2.8.html">Kompozado prepozicioni</a></p>
-			<p class="korpo2">2.9 <a href="2.9.html">La kompozaji e la sufixi</a></p>
-		<div class="ui divider" style="margin-left: 10px;"></div>
-		<h2 class="korpo1">Apendici</h2>
-			<p class="korpo2">3.1 <a href="3.1.html">L'acentizo en Ido</a></p>
-			<p class="korpo2">3.2 <a href="3.2.html">La pluralo por -i</a></p>
-			<p class="korpo2">3.3 <a href="3.3.html">Genro e maskulismo</a></p>
-			<p class="korpo2">3.4 <a href="3.4.html">Substantivigo dil adjektivo</a></p>
-			<p class="korpo2">3.5 <a href="3.5.html">Ca, ta e qua</a></p>
-			<p class="korpo2">3.6 <a href="3.6.html">La Konjugo-sistemo di Ido</a></p>
-			<p class="korpo2">3.7 <a href="3.7.html">Vortordino</a></p>
-			<p class="korpo2">3.8 <a href="3.8.html">Puntizado</a></p>
-			<p class="korpo2">3.9 <a href="3.9.html">Nomi, adresi</a></p>
-			<p class="korpo2">3.10 <a href="3.10.html">Formuli di politeso en letri</a></p>
+		<h2 class="korpo1" style="color:grey">Prefaco</h2>
+			<a class="item korpo2" href="0.1.html"><span style="color:grey">0.1</span> Quo esas Ido?</a>
+			<a class="item korpo2" href="0.2.html"><span style="color:grey">0.2</span> Konstato</a>
+			<a class="item korpo2" href="0.3.html"><span style="color:grey">0.3</span> Averto</a>
+		<h2 class="korpo1" style="color:grey">Unesma chapitro - Morfologio e sintaxo</h2>
+			<a class="item korpo2" href="1.1.html"><span style="color:grey">1.1</span> Alfabeto</a>
+			<h3 class="korpo2" style="color:grey">Pronuncado</h3>
+				<a class="item korpo3" href="1.2.1.html"><span style="color:grey">1.2.1</span> Vokali</a>
+				<a class="item korpo3" href="1.2.2.html"><span style="color:grey">1.2.2</span> Konsonanti</a>
+				<a class="item korpo3" href="1.2.3.html"><span style="color:grey">1.2.3</span> Diagrami</a>
+			<a class="item korpo2" href="1.3.html"><span style="color:grey">1.3</span> Tonika acento</a>
+			<a class="item korpo2" href="1.4.html"><span style="color:grey">1.4</span> Artiklo</a>
+			<a class="item korpo2" href="1.5.html"><span style="color:grey">1.5</span> Substantivo</a>
+			<a class="item korpo2" href="1.6.html"><span style="color:grey">1.6</span> Propra nomi</a>
+			<a class="item korpo2" href="1.7.html"><span style="color:grey">1.7</span> Adjektivo qualifikanta e lua plaso</a>
+			<a class="item korpo2" href="1.8.html"><span style="color:grey">1.8</span> Gradi komparala</a>
+			<a class="item korpo2" href="1.9.html"><span style="color:grey">1.9</span> Personala pronomi</a>
+			<a class="item korpo2" href="1.10.html"><span style="color:grey">1.10</span> Posedala adjektivi e pronomi</a>
+			<a class="item korpo2" href="1.11.html"><span style="color:grey">1.11</span> Demonstrativa adjektivi-pronomi</a>
+			<a class="item korpo2" href="1.12.html"><span style="color:grey">1.12</span> Relativa e questionala adjektivi-pronomi</a>
+			<a class="item korpo2" href="1.13.html"><span style="color:grey">1.13</span> La pronomo « lo »</a>
+			<a class="item korpo2" href="1.14.html"><span style="color:grey">1.14</span> Nedefinita adjektivi-pronomi</a>
+			<h3 class="korpo2" style="color:grey">Verbo</h3>
+				<a class="item korpo3" href="1.15.1.html"><span style="color:grey">1.15.1</span> Transitiva</a>
+				<a class="item korpo3" href="1.15.2.html"><span style="color:grey">1.15.2</span> Netransitiva</a>
+				<a class="item korpo3" href="1.15.3.html"><span style="color:grey">1.15.3</span> Pasiva</a>
+				<a class="item korpo3" href="1.15.4.html"><span style="color:grey">1.15.4</span> Mixita</a>
+				<a class="item korpo3" href="1.15.5.html"><span style="color:grey">1.15.5</span> Reflektiva</a>
+				<a class="item korpo3" href="1.15.6.html"><span style="color:grey">1.15.6</span> Reciproka</a>
+				<a class="item korpo3" href="1.15.7.html"><span style="color:grey">1.15.7</span> Unpersona</a>
+			<h3 class="korpo2" style="color:grey">Adverbo</h3>
+				<a class="item korpo3" href="1.16.1.html"><span style="color:grey">1.16.1</span> Di quanteso</a>
+				<a class="item korpo3" href="1.16.2.html"><span style="color:grey">1.16.2</span> Di tempo</a>
+				<a class="item korpo3" href="1.16.3.html"><span style="color:grey">1.16.3</span> Di loko</a>
+				<a class="item korpo3" href="1.16.4.html"><span style="color:grey">1.16.4</span> Di maniero</a>
+				<a class="item korpo3" href="1.16.5.html"><span style="color:grey">1.16.5</span> Di afirmo</a>
+				<a class="item korpo3" href="1.16.6.html"><span style="color:grey">1.16.6</span> Nego</a>
+				<a class="item korpo3" href="1.16.7.html"><span style="color:grey">1.16.7</span> Dubo</a>
+			<h3 class="korpo2" style="color:grey"><a href="1.17.html">Prepozicioni</a></h3>
+				<a class="item korpo3" href="1.17.1.html"><span style="color:grey">1.17.1</span> ad/a</a>
+				<a class="item korpo3" href="1.17.2.html"><span style="color:grey">1.17.2</span> alonge</a>
+				<a class="item korpo3" href="1.17.3.html"><span style="color:grey">1.17.3</span> an</a>
+				<a class="item korpo3" href="1.17.4.html"><span style="color:grey">1.17.4</span> ante</a>
+				<a class="item korpo3" href="1.17.5.html"><span style="color:grey">1.17.5</span> apud</a>
+				<a class="item korpo3" href="1.17.6.html"><span style="color:grey">1.17.6</span> avan</a>
+				<a class="item korpo3" href="1.17.7.html"><span style="color:grey">1.17.7</span> che</a>
+				<a class="item korpo3" href="1.17.8.html"><span style="color:grey">1.17.8</span> cirkum</a>
+				<a class="item korpo3" href="1.17.9.html"><span style="color:grey">1.17.9</span> cis</a>
+				<a class="item korpo3" href="1.17.10.html"><span style="color:grey">1.17.10</span> da</a>
+				<a class="item korpo3" href="1.17.11.html"><span style="color:grey">1.17.11</span> de</a>
+				<a class="item korpo3" href="1.17.12.html"><span style="color:grey">1.17.12</span> di</a>
+				<a class="item korpo3" href="1.17.13.html"><span style="color:grey">1.17.13</span> dop</a>
+				<a class="item korpo3" href="1.17.14.html"><span style="color:grey">1.17.14</span> dum</a>
+				<a class="item korpo3" href="1.17.15.html"><span style="color:grey">1.17.15</span> ek</a>
+				<a class="item korpo3" href="1.17.16.html"><span style="color:grey">1.17.16</span> en</a>
+				<a class="item korpo3" href="1.17.17.html"><span style="color:grey">1.17.17</span> erste</a>
+				<a class="item korpo3" href="1.17.18.html"><span style="color:grey">1.17.18</span> exter</a>
+				<a class="item korpo3" href="1.17.19.html"><span style="color:grey">1.17.19</span> for</a>
+				<a class="item korpo3" href="1.17.20.html"><span style="color:grey">1.17.20</span> inter</a>
+				<a class="item korpo3" href="1.17.21.html"><span style="color:grey">1.17.21</span> kontre</a>
+				<a class="item korpo3" href="1.17.22.html"><span style="color:grey">1.17.22</span> koram</a>
+				<a class="item korpo3" href="1.17.23.html"><span style="color:grey">1.17.23</span> kun</a>
+				<a class="item korpo3" href="1.17.24.html"><span style="color:grey">1.17.24</span> lor</a>
+				<a class="item korpo3" href="1.17.25.html"><span style="color:grey">1.17.25</span> malgre</a>
+				<a class="item korpo3" href="1.17.26.html"><span style="color:grey">1.17.26</span> per</a>
+				<a class="item korpo3" href="1.17.27.html"><span style="color:grey">1.17.27</span> po</a>
+				<a class="item korpo3" href="1.17.28.html"><span style="color:grey">1.17.28</span> por</a>
+				<a class="item korpo3" href="1.17.39.html"><span style="color:grey">1.17.29</span> pos</a>
+				<a class="item korpo3" href="1.17.40.html"><span style="color:grey">1.17.30</span> preter</a>
+				<a class="item korpo3" href="1.17.31.html"><span style="color:grey">1.17.31</span> pri</a>
+				<a class="item korpo3" href="1.17.32.html"><span style="color:grey">1.17.32</span> pro</a>
+				<a class="item korpo3" href="1.17.33.html"><span style="color:grey">1.17.33</span> proxim</a>
+				<a class="item korpo3" href="1.17.34.html"><span style="color:grey">1.17.34</span> segun</a>
+				<a class="item korpo3" href="1.17.35.html"><span style="color:grey">1.17.35</span> sen</a>
+				<a class="item korpo3" href="1.17.36.html"><span style="color:grey">1.17.36</span> sub</a>
+				<a class="item korpo3" href="1.17.37.html"><span style="color:grey">1.17.37</span> super</a>
+				<a class="item korpo3" href="1.17.38.html"><span style="color:grey">1.17.38</span> sur</a>
+				<a class="item korpo3" href="1.17.49.html"><span style="color:grey">1.17.39</span> til</a>
+				<a class="item korpo3" href="1.17.40.html"><span style="color:grey">1.17.40</span> tra</a>
+				<a class="item korpo3" href="1.17.41.html"><span style="color:grey">1.17.41</span> trans</a>
+				<a class="item korpo3" href="1.17.42.html"><span style="color:grey">1.17.42</span> ultre</a>
+				<a class="item korpo3" href="1.17.43.html"><span style="color:grey">1.17.43</span> vice</a>
+				<a class="item korpo3" href="1.17.44.html"><span style="color:grey">1.17.44</span> ye</a>
+				<a class="item korpo3" href="1.17.45.html"><span style="color:grey">1.17.45</span> Komplemento di adverbo prepoziciona</a>
+				<a class="item korpo3" href="1.17.46.html"><span style="color:grey">1.17.46</span> Plaso di la komplemento di prepoziciono</a>
+				<a class="item korpo3" href="1.17.47.html"><span style="color:grey">1.17.47</span> Prepozicioni avan infinitivo</a>
+				<a class="item korpo3" href="1.17.48.html"><span style="color:grey">1.17.48</span> Prepozicioni kun verbi</a>
+			<h3 class="korpo2" style="color:grey">Konjuncioni</h3>
+				<h4 class="korpo3" style="color:grey">Koordinala</h4>
+					<a class="item korpo4" href="1.18.1.1.html"><span style="color:grey">1.18.1.1</span> do</a>
+					<a class="item korpo4" href="1.18.1.2.html"><span style="color:grey">1.18.1.2</span> ed/e</a>
+					<a class="item korpo4" href="1.18.1.3.html"><span style="color:grey">1.18.1.3</span> ma</a>
+					<a class="item korpo4" href="1.18.1.4.html"><span style="color:grey">1.18.1.4</span> nam</a>
+					<a class="item korpo4" href="1.18.1.5.html"><span style="color:grey">1.18.1.5</span> or</a>
+					<a class="item korpo4" href="1.18.1.6.html"><span style="color:grey">1.18.1.6</span> od/o</a>
+					<a class="item korpo4" href="1.18.1.7.html"><span style="color:grey">1.18.1.7</span> sive</a>
+					<a class="item korpo4" href="1.18.1.8.html"><span style="color:grey">1.18.1.8</span> tamen</a>
+					<a class="item korpo4" href="1.18.1.9.html"><span style="color:grey">1.18.1.9</span> lore</a>
+					<a class="item korpo4" href="1.18.1.10.html"><span style="color:grey">1.18.1.10</span> nek</a>
+					<a class="item korpo4" href="1.18.1.11.html"><span style="color:grey">1.18.1.11</span> yen</a>
+				<h4 class="korpo3" style="color:grey">Subordinala</h4>
+					<a class="item korpo4" href="1.18.2.1.html"><span style="color:grey">1.18.2.1</span> ke</a>
+					<a class="item korpo4" href="1.18.2.2.html"><span style="color:grey">1.18.2.2</span> se</a>
+					<a class="item korpo4" href="1.18.2.3.html"><span style="color:grey">1.18.2.3</span> se nur</a>
+					<a class="item korpo4" href="1.18.2.4.html"><span style="color:grey">1.18.2.4</span> quale se</a>
+					<a class="item korpo4" href="1.18.2.5.html"><span style="color:grey">1.18.2.5</span> quankam</a>
+				<a class="item korpo3" href="1.18.3.html"><span style="color:grey">1.18.3</span> Konjuncioni kompozita</a>
+				<a class="item korpo3" href="1.18.4.html"><span style="color:grey">1.18.4</span> Konjuncioni questionala</a>
+			<h3 class="korpo2" style="color:grey">Interjecioni</h3>
+				<a class="item korpo3" href="1.19.1.html"><span style="color:grey">1.19.1</span> aye</a>
+				<a class="item korpo3" href="1.19.2.html"><span style="color:grey">1.19.2</span> ba</a>
+				<a class="item korpo3" href="1.19.3.html"><span style="color:grey">1.19.3</span> fi</a>
+				<a class="item korpo3" href="1.19.4.html"><span style="color:grey">1.19.4</span> ha</a>
+				<a class="item korpo3" href="1.19.5.html"><span style="color:grey">1.19.5</span> he</a>
+				<a class="item korpo3" href="1.19.6.html"><span style="color:grey">1.19.6</span> hem</a>
+				<a class="item korpo3" href="1.19.7.html"><span style="color:grey">1.19.7</span> ho</a>
+				<a class="item korpo3" href="1.19.8.html"><span style="color:grey">1.19.8</span> hola</a>
+				<a class="item korpo3" href="1.19.9.html"><span style="color:grey">1.19.9</span> hop</a>
+				<a class="item korpo3" href="1.19.10.html"><span style="color:grey">1.19.10</span> hu-hu</a>
+				<a class="item korpo3" href="1.19.11.html"><span style="color:grey">1.19.11</span> hura</a>
+				<a class="item korpo3" href="1.19.12.html"><span style="color:grey">1.19.12</span> krak</a>
+				<a class="item korpo3" href="1.19.13.html"><span style="color:grey">1.19.13</span> krik</a>
+				<a class="item korpo3" href="1.19.14.html"><span style="color:grey">1.19.14</span> krik-krak</a>
+				<a class="item korpo3" href="1.19.15.html"><span style="color:grey">1.19.15</span> nu</a>
+				<a class="item korpo3" href="1.19.16.html"><span style="color:grey">1.19.16</span> paf</a>
+				<a class="item korpo3" href="1.19.17.html"><span style="color:grey">1.19.17</span> plump</a>
+				<a class="item korpo3" href="1.19.18.html"><span style="color:grey">1.19.18</span> psit</a>
+				<a class="item korpo3" href="1.19.19.html"><span style="color:grey">1.19.19</span> shut</a>
+				<a class="item korpo3" href="1.19.20.html"><span style="color:grey">1.19.20</span> sus</a>
+			<h3 class="korpo2" style="color:grey">Nombro</h3>
+				<a class="item korpo3" href="1.20.1.html"><span style="color:grey">1.20.1</span> Kardinala</a>
+				<a class="item korpo3" href="1.20.2.html"><span style="color:grey">1.20.2</span> Kompozita</a>
+				<a class="item korpo3" href="1.20.3.html"><span style="color:grey">1.20.3</span> Ordinala</a>
+				<a class="item korpo3" href="1.20.4.html"><span style="color:grey">1.20.4</span> Fracionala</a>
+				<a class="item korpo3" href="1.20.5.html"><span style="color:grey">1.20.5</span> Multiplikera</a>
+				<a class="item korpo3" href="1.20.6.html"><span style="color:grey">1.20.6</span> Nombro de foyi</a>
+				<a class="item korpo3" href="1.20.7.html"><span style="color:grey">1.20.7</span> Expresuri distributiva</a>
+				<a class="item korpo3" href="1.20.8.html"><span style="color:grey">1.20.8</span> La hori</a>
+				<a class="item korpo3" href="1.20.9.html"><span style="color:grey">1.20.9</span> En matematiko</a>
+			<h3 class="korpo2" style="color:grey">Sintaxo</h3>
+				<a class="item korpo3" href="1.21.1.html"><span style="color:grey">1.21.1</span> Vortordino</a>
+				<a class="item korpo3" href="1.21.2.html"><span style="color:grey">1.21.2</span> Inversigo e « n » inversigala (akuzativo)</a>
+			<h3 class="korpo2" style="color:grey">Tempo e modo</h3>
+				<a class="item korpo3" href="1.22.1.html"><span style="color:grey">1.22.1</span> Indikativo (prezenta, pasinta, futura)</a>
+				<a class="item korpo3" href="1.22.2.html"><span style="color:grey">1.22.2</span> Kondicionalo</a>
+				<a class="item korpo3" href="1.22.3.html"><span style="color:grey">1.22.3</span> La konjuncioni ne influas la modo</a>
+				<a class="item korpo3" href="1.22.4.html"><span style="color:grey">1.22.4</span> Imperativo o volitivo</a>
+				<a class="item korpo3" href="1.22.5.html"><span style="color:grey">1.22.5</span> Expresuro « por ke » e volitivo</a>
+				<a class="item korpo3" href="1.22.6.html"><span style="color:grey">1.22.6</span> Infinitivi</a>
+				<a class="item korpo3" href="1.22.7.html"><span style="color:grey">1.22.7</span> Participi</a>
+				<a class="item korpo3" href="1.22.8.html"><span style="color:grey">1.22.8</span> Absoluta participo</a>
+				<a class="item korpo3" href="1.22.9.html"><span style="color:grey">1.22.9</span> Substantiva participi</a>
+		<h2 class="korpo1" style="color:grey">Duesma chapitro - Vortifado</h2>
+			<a class="item korpo2" href="2.1.html"><span style="color:grey">2.1</span> Elementi di vorto</a>
+			<h3 class="korpo2" style="color:grey">Procedi di vortifado</h3>
+				<a class="item korpo3" href="2.2.1.html"><span style="color:grey">2.2.1</span> Radiki</a>
+				<a class="item korpo3" href="2.2.2.html"><span style="color:grey">2.2.2</span> Dezinenci</a>
+			<h3 class="korpo2" style="color:grey">Nemediata derivado</h3>
+				<a class="item korpo3" href="2.3.1.html"><span style="color:grey">2.3.1</span> Substantivo nemediate formacita de verbo</a>
+				<a class="item korpo3" href="2.3.2.html"><span style="color:grey">2.3.2</span> Adjektivo nemediate formacita de substantivo</a>
+				<a class="item korpo3" href="2.3.3.html"><span style="color:grey">2.3.3</span> Adverbo nemediate formacita de adjektivo</a>
+				<a class="item korpo3" href="2.3.4.html"><span style="color:grey">2.3.4</span> Adjektivo de adverbo</a>
+				<a class="item korpo3" href="2.3.5.html"><span style="color:grey">2.3.5</span> Verbo de radiko neverbala</a>
+			<a class="item korpo2" href="2.4.html"><span style="color:grey">2.4</span> Mediata derivado</a>
+			<h3 class="korpo2" style="color:grey"><a href="2.5.html">Afixi</a></h3>
+				<h4 class="korpo3" style="color:grey">Prefixi</h4>
+					<a class="item korpo4" href="2.5.1.1.html"><span style="color:grey">2.5.1.1</span> anti-</a>
+					<a class="item korpo4" href="2.5.1.2.html"><span style="color:grey">2.5.1.2</span> arki-</a>
+					<a class="item korpo4" href="2.5.1.3.html"><span style="color:grey">2.5.1.3</span> auto-</a>
+					<a class="item korpo4" href="2.5.1.4.html"><span style="color:grey">2.5.1.4</span> bi-</a>
+					<a class="item korpo4" href="2.5.1.5.html"><span style="color:grey">2.5.1.5</span> bo-</a>
+					<a class="item korpo4" href="2.5.1.6.html"><span style="color:grey">2.5.1.6</span> des-</a>
+					<a class="item korpo4" href="2.5.1.7.html"><span style="color:grey">2.5.1.7</span> dis-</a>
+					<a class="item korpo4" href="2.5.1.8.html"><span style="color:grey">2.5.1.8</span> ex-</a>
+					<a class="item korpo4" href="2.5.1.9.html"><span style="color:grey">2.5.1.9</span> ge-</a>
+					<a class="item korpo4" href="2.5.1.10.html"><span style="color:grey">2.5.1.10</span> mi-</a>
+					<a class="item korpo4" href="2.5.1.11.html"><span style="color:grey">2.5.1.11</span> mis-</a>
+					<a class="item korpo4" href="2.5.1.12.html"><span style="color:grey">2.5.1.12-13</span> ne-</a>
+					<a class="item korpo4" href="2.5.1.13.html"><span style="color:grey">2.5.1.12-13</span> sen-</a>
+					<a class="item korpo4" href="2.5.1.14.html"><span style="color:grey">2.5.1.14</span> par-</a>
+					<a class="item korpo4" href="2.5.1.15.html"><span style="color:grey">2.5.1.15</span> para-</a>
+					<a class="item korpo4" href="2.5.1.16.html"><span style="color:grey">2.5.1.16</span> pre-</a>
+					<a class="item korpo4" href="2.5.1.17.html"><span style="color:grey">2.5.1.17</span> pseudo-</a>
+					<a class="item korpo4" href="2.5.1.18.html"><span style="color:grey">2.5.1.18</span> quadri-</a>
+					<a class="item korpo4" href="2.5.1.19.html"><span style="color:grey">2.5.1.19</span> retro-</a>
+					<a class="item korpo4" href="2.5.1.20.html"><span style="color:grey">2.5.1.20</span> ri-</a>
+					<h4 class="korpo4" style="color:grey"><a href="2.5.1.21.html">Prefixi teknikala</a></h4>
+						<a class="item korpo5" href="2.5.1.21.1.html"><span style="color:grey">2.5.1.21.1</span> equi-</a>
+						<a class="item korpo5" href="2.5.1.21.2.html"><span style="color:grey">2.5.1.21.2</span> ko-</a>
+						<a class="item korpo5" href="2.5.1.21.3.html"><span style="color:grey">2.5.1.21.3</span> mono-</a>
+					<a class="item korpo4" href="2.5.1.22.html"><span style="color:grey">2.5.1.22</span> Prefixa prepozicioni</a>
+				<h4 class="korpo3" style="color:grey">Sufixi</h4>
+					<a class="item korpo4" href="2.5.2.1.html"><span style="color:grey">2.5.2.1</span> -ab-</a>
+					<a class="item korpo4" href="2.5.2.2.html"><span style="color:grey">2.5.2.2</span> -ach-</a>
+					<a class="item korpo4" href="2.5.2.3.html"><span style="color:grey">2.5.2.3</span> -ad-</a>
+					<a class="item korpo4" href="2.5.2.4.html"><span style="color:grey">2.5.2.4</span> -ag-</a>
+					<a class="item korpo4" href="2.5.2.5.html"><span style="color:grey">2.5.2.5</span> -aj-</a>
+					<a class="item korpo4" href="2.5.2.6.html"><span style="color:grey">2.5.2.6</span> -al-</a>
+					<a class="item korpo4" href="2.5.2.7.html"><span style="color:grey">2.5.2.7</span> -an-</a>
+					<a class="item korpo4" href="2.5.2.8.html"><span style="color:grey">2.5.2.8</span> -ar-</a>
+					<a class="item korpo4" href="2.5.2.9.html"><span style="color:grey">2.5.2.9</span> -ari-</a>
+					<a class="item korpo4" href="2.5.2.10.html"><span style="color:grey">2.5.2.10</span> -atr-</a>
+					<a class="item korpo4" href="2.5.2.11.html"><span style="color:grey">2.5.2.11</span> -e-</a>
+					<a class="item korpo4" href="2.5.2.12.html"><span style="color:grey">2.5.2.12</span> -ebl-</a>
+					<a class="item korpo4" href="2.5.2.13.html"><span style="color:grey">2.5.2.13</span> -ed-</a>
+					<a class="item korpo4" href="2.5.2.14.html"><span style="color:grey">2.5.2.14</span> -eg-</a>
+					<a class="item korpo4" href="2.5.2.15.html"><span style="color:grey">2.5.2.15</span> -em-</a>
+					<a class="item korpo4" href="2.5.2.16.html"><span style="color:grey">2.5.2.16</span> -end-</a>
+					<a class="item korpo4" href="2.5.2.17.html"><span style="color:grey">2.5.2.17</span> -er-</a>
+					<a class="item korpo4" href="2.5.2.18.html"><span style="color:grey">2.5.2.18</span> -eri-</a>
+					<a class="item korpo4" href="2.5.2.19.html"><span style="color:grey">2.5.2.19</span> -es-</a>
+					<a class="item korpo4" href="2.5.2.20.html"><span style="color:grey">2.5.2.20</span> -esk-</a>
+					<a class="item korpo4" href="2.5.2.21.html"><span style="color:grey">2.5.2.21</span> -estr-</a>
+					<a class="item korpo4" href="2.5.2.22.html"><span style="color:grey">2.5.2.22</span> -et-</a>
+					<a class="item korpo4" href="2.5.2.23.html"><span style="color:grey">2.5.2.23</span> -ey-</a>
+					<a class="item korpo4" href="2.5.2.24.html"><span style="color:grey">2.5.2.24</span> -i-</a>
+					<a class="item korpo4" href="2.5.2.25.html"><span style="color:grey">2.5.2.25</span> -id-</a>
+					<a class="item korpo4" href="2.5.2.26.html"><span style="color:grey">2.5.2.26</span> -ier-</a>
+					<a class="item korpo4" href="2.5.2.27.html"><span style="color:grey">2.5.2.27</span> -if-</a>
+					<a class="item korpo4" href="2.5.2.28.html"><span style="color:grey">2.5.2.28</span> -ig-</a>
+					<a class="item korpo4" href="2.5.2.29.html"><span style="color:grey">2.5.2.29</span> -ik-</a>
+					<a class="item korpo4" href="2.5.2.30.html"><span style="color:grey">2.5.2.30</span> -il-</a>
+					<a class="item korpo4" href="2.5.2.31.html"><span style="color:grey">2.5.2.31</span> -in-</a>
+					<a class="item korpo4" href="2.5.2.32.html"><span style="color:grey">2.5.2.32</span> -ind-</a>
+					<a class="item korpo4" href="2.5.2.33.html"><span style="color:grey">2.5.2.33</span> -ism-</a>
+					<a class="item korpo4" href="2.5.2.34.html"><span style="color:grey">2.5.2.34</span> -ist-</a>
+					<a class="item korpo4" href="2.5.2.35.html"><span style="color:grey">2.5.2.35</span> -iv-</a>
+					<a class="item korpo4" href="2.5.2.36.html"><span style="color:grey">2.5.2.36</span> -iz-</a>
+					<a class="item korpo4" href="2.5.2.37.html"><span style="color:grey">2.5.2.37</span> -oz-</a>
+					<a class="item korpo4" href="2.5.2.38.html"><span style="color:grey">2.5.2.38</span> -ul-</a>
+					<a class="item korpo4" href="2.5.2.39.html"><span style="color:grey">2.5.2.39</span> -um-</a>
+					<a class="item korpo4" href="2.5.2.40.html"><span style="color:grey">2.5.2.40</span> -un-</a>
+					<a class="item korpo4" href="2.5.2.41.html"><span style="color:grey">2.5.2.41</span> -ur-</a>
+					<a class="item korpo4" href="2.5.2.42.html"><span style="color:grey">2.5.2.42</span> -uy-</a>
+					<a class="item korpo4" href="2.5.2.43.html"><span style="color:grey">2.5.2.43</span> -yun-</a>
+			<h3 class="korpo2" style="color:grey">Kompozado</h3>
+				<a class="item korpo3" href="2.6.1.html"><span style="color:grey">2.6.1</span> Substantivo kun substantivo</a>
+				<a class="item korpo3" href="2.6.2.html"><span style="color:grey">2.6.2</span> Substantivo kun verbo</a>
+				<a class="item korpo3" href="2.6.3.html"><span style="color:grey">2.6.3</span> Substantivo kun adjektivo (o radiko adjektivigita)</a>
+				<a class="item korpo3" href="2.6.4.html"><span style="color:grey">2.6.4</span> Prepoziciono kun verbo</a>
+				<a class="item korpo3" href="2.6.5.html"><span style="color:grey">2.6.5</span> Prepoziciono o nombro-nomo kun adj ekti-vo o substantivo</a>
+				<a class="item korpo3" href="2.6.6.html"><span style="color:grey">2.6.6</span> Irga adjektivo kun radiko igita adjektivo o adverbo</a>
+			<a class="item korpo2" href="2.7.html"><span style="color:grey">2.7</span> Regulo di analizo o deskompozo</a>
+			<a class="item korpo2" href="2.8.html"><span style="color:grey">2.8</span> Kompozado prepozicioni</a>
+			<a class="item korpo2" href="2.9.html"><span style="color:grey">2.9</span> La kompozaji e la sufixi</a>
+		<h2 class="korpo1" style="color:grey">Apendici</h2>
+			<a class="item korpo2" href="3.1.html"><span style="color:grey">3.1</span> L'acentizo en Ido</a>
+			<a class="item korpo2" href="3.2.html"><span style="color:grey">3.2</span> La pluralo por -i</a>
+			<a class="item korpo2" href="3.3.html"><span style="color:grey">3.3</span> Genro e maskulismo</a>
+			<a class="item korpo2" href="3.4.html"><span style="color:grey">3.4</span> Substantivigo dil adjektivo</a>
+			<a class="item korpo2" href="3.5.html"><span style="color:grey">3.5</span> Ca, ta e qua</a>
+			<a class="item korpo2" href="3.6.html"><span style="color:grey">3.6</span> La Konjugo-sistemo di Ido</a>
+			<a class="item korpo2" href="3.7.html"><span style="color:grey">3.7</span> Vortordino</a>
+			<a class="item korpo2" href="3.8.html"><span style="color:grey">3.8</span> Puntizado</a>
+			<a class="item korpo2" href="3.9.html"><span style="color:grey">3.9</span> Nomi, adresi</a>
+			<a class="item korpo2" href="3.10.html"><span style="color:grey">3.10</span> Formuli di politeso en letri</a>

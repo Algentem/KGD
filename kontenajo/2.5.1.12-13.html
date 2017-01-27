@@ -10,31 +10,44 @@
 				$("#menuo").load("menuo.xml"); 
 			});
 		</script>
+		<script>
+			$(document).ready(function() {
+				$("#indexo").click(function() {
+					$('.ui.sidebar')
+						.sidebar('setting', 'transition', 'overlay')
+						.sidebar('toggle')
+					;
+				});
+			});
+		</script>
+
 	</head>
 	<body>
-		<table style="width:100%">
-			<tr>
-				<td style="width:25%">
-					<div class="ui raised segment" style="width:25%" id="menuo"></div>
-				</td>
-				<td style="width:75%">
-					<div style="margin-top:20px; margin-bottom:20px; margin-left:40px; margin-right:20px">
-						<h1>ne- (e sen)</h1>
-						<div class="ui divider"></div>
-							<p>Ta vorto ne esas prefixo nature, nam ol esas negal <i>adverbo</i>. Ma ol uzesas quale prefixo, kom elemento neganta relate la vorto a qua on unionas lu: <b>neposibla</b>, <b>nevera</b>, <b>nejusta</b>, <b>neyusta</b>, <b>nevidebla</b>, <b>nekohere</b>, <b>neprecizeso</b>, <b>nevideblaji</b>, e.c.</p>
-							<p>Ne konfundez <b>ne-</b> a <b>des-</b> od a <b><a name="sen-">sen-</a></b> (prepoziciono). <b>Ne-</b> indikas simple nego, <b>des-</b> kontreso, <b>sen-</b> manko: <b>nericha</b>, <b>desricha</b> = <i>povra</i>; <b>nebela</b>, <b>desbela</b> = <i>leda</i>; <b>senbarba</b>, <b>senkapa</b>, <b>senarma</b>, <b>senpova</b>. Konseque, <i>senutila</i>, <i>senplena</i><sup><a name="Noto1" href="#Paginonoto1">[1]</a></sup>, vice <b>neutila</b>, <b>neplena</b> esus absurda, e <i>nearma</i>, <i>nebarba</i>, <i>nekapa</i>, <i>nepora</i>, vice <b>senarma</b>, <b>senbarba</b>, <b>senkapa</b>, <b>senpova</b> esus egale absurda.</p>
-							<p>Ne konfundez <b>senmova</b> = <i>qua esas sen movo</i>, a <b>nemovebla</b> = <i>qua ne esas movebla</i>, <i>quan on ne povas movar</i>; <b>sendube</b> dicas, ke ne existas dubo pri..., <b>nedubeble</b>: ke onne povas dubar, ke lo dicata ne esas dubebla.</p>
-							<p>La vorti kompozita per <b>sen-</b> opozesas kom simpla negi al derivaji havanta la sufixo <b>-oz</b> (qua egalesas <b>kun</b>): <b>senanma</b>, <b>sendolora</b> fakte esas la negi di <b>anmoza</b>, <b>doloroza</b>.</p>
-							<p><b>sen-</b> = <i>-los</i> Germana, <i>-less</i> Angla.</p>						<div class="ui divider"></div>
-						<div style="margin-left:40; color:#4c4c4c;">
-							<p><a name="Paginonoto1" href="#Noto1">[1]</a> Pro quo ne <i>senplena</i>? Esperantisto respondas: pro ke ni ne dicas <i>pleno</i> (vice <i>pleneco</i>). Ma pro quo vu dicas <i>utilo</i> (vice <i>utileco</i>)? Ka plena ne esas adjektivo totsame kam <i>utila</i>? Do, se on admisas <i>senutila</i>, on devas admisar <i>senplena</i>.</p>
-						</div>
-						<div class="ui divider"></div>
-						<center><a class="ui button" href="2.5.1.11.html"><i class="left arrow icon"></i>A la preiranta pagino</a>
-						<a class="ui button" href="2.5.1.14.html">A la sequanta pagino<i class="right arrow icon"></i></a></center>
-					</div>
-				</td>
-			</tr>
-		</table>
+		<div class="ui sidebar inverted vertical menu">
+			<div id="menuo"></div>
+		</div>
+		<div style="margin-top:40px; margin-bottom:40px; margin-left:40px; margin-right:40px">
+			<center>
+				<a class="ui primary left attached icon button" href="../index.html"><i class="home icon"></i></a>
+				<a class="ui primary right attached icon button" id="indexo"><i class="list layout icon"></i></a>
+			</center>
+			<h1>ne- (e sen)</h1>
+			<div class="ui divider"></div>
+				<p>Ta vorto ne esas prefixo nature, nam ol esas negal <i>adverbo</i>. Ma ol uzesas quale prefixo, kom elemento neganta relate la vorto a qua on unionas lu: <b>neposibla</b>, <b>nevera</b>, <b>nejusta</b>, <b>neyusta</b>, <b>nevidebla</b>, <b>nekohere</b>, <b>neprecizeso</b>, <b>nevideblaji</b>, e.c.</p>
+				<p>Ne konfundez <b>ne-</b> a <b>des-</b> od a <b><a name="sen-">sen-</a></b> (prepoziciono). <b>Ne-</b> indikas simple nego, <b>des-</b> kontreso, <b>sen-</b> manko: <b>nericha</b>, <b>desricha</b> = <i>povra</i>; <b>nebela</b>, <b>desbela</b> = <i>leda</i>; <b>senbarba</b>, <b>senkapa</b>, <b>senarma</b>, <b>senpova</b>. Konseque, <i>senutila</i>, <i>senplena</i><sup><a name="Noto1" href="#Paginonoto1">[1]</a></sup>, vice <b>neutila</b>, <b>neplena</b> esus absurda, e <i>nearma</i>, <i>nebarba</i>, <i>nekapa</i>, <i>nepora</i>, vice <b>senarma</b>, <b>senbarba</b>, <b>senkapa</b>, <b>senpova</b> esus egale absurda.</p>
+				<p>Ne konfundez <b>senmova</b> = <i>qua esas sen movo</i>, a <b>nemovebla</b> = <i>qua ne esas movebla</i>, <i>quan on ne povas movar</i>; <b>sendube</b> dicas, ke ne existas dubo pri..., <b>nedubeble</b>: ke onne povas dubar, ke lo dicata ne esas dubebla.</p>
+				<p>La vorti kompozita per <b>sen-</b> opozesas kom simpla negi al derivaji havanta la sufixo <b>-oz</b> (qua egalesas <b>kun</b>): <b>senanma</b>, <b>sendolora</b> fakte esas la negi di <b>anmoza</b>, <b>doloroza</b>.</p>
+				<p><b>sen-</b> = <i>-los</i> Germana, <i>-less</i> Angla.</p>						<div class="ui divider"></div>
+			<div style="margin-left:40; color:#4c4c4c;">
+				<p><a name="Paginonoto1" href="#Noto1">[1]</a> Pro quo ne <i>senplena</i>? Esperantisto respondas: pro ke ni ne dicas <i>pleno</i> (vice <i>pleneco</i>). Ma pro quo vu dicas <i>utilo</i> (vice <i>utileco</i>)? Ka plena ne esas adjektivo totsame kam <i>utila</i>? Do, se on admisas <i>senutila</i>, on devas admisar <i>senplena</i>.</p>
+			</div>
+			<div class="ui divider"></div>
+			<center>
+				<div class="ui buttons">
+					<a class="ui left labeled icon button" href="2.5.1.11.html"><i class="left arrow icon"></i>Preiranta pagino</a>
+					<a class="ui right labeled icon button" href="2.5.1.14.html">Sequanta pagino<i class="right arrow icon"></i></a>
+				</div>
+			</center>
+		</div>
 	</body>
 </html>

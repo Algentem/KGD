@@ -10,28 +10,41 @@
 				$("#menuo").load("menuo.xml"); 
 			});
 		</script>
+		<script>
+			$(document).ready(function() {
+				$("#indexo").click(function() {
+					$('.ui.sidebar')
+						.sidebar('setting', 'transition', 'overlay')
+						.sidebar('toggle')
+					;
+				});
+			});
+		</script>
+
 	</head>
 	<body>
-		<table style="width:100%">
-			<tr>
-				<td style="width:25%">
-					<div class="ui raised segment" style="width:25%" id="menuo"></div>
-				</td>
-				<td style="width:75%">
-					<div style="margin-top:20px; margin-bottom:20px; margin-left:40px; margin-right:20px">
-						<h1>auto-</h1>
-						<div class="ui divider"></div>
-						<p>Quale <b>anti-</b>, ta prefixo repulsesis « kom prefixo generale aplikebla, ed adoptesis kom prefixo rezervenda a la ciencala e teknikala terminaro<sup><a name="Noto1" href="#Paginonoto1">[1]</a></sup>.</p>
-						<div class="ui divider"></div>
-						<div style="margin-left:40; color:#4c4c4c;">
-							<p><a name="Paginonoto1" href="#Noto1">[1]</a> Sama remarki kam pri <i>anti-</i>. L'ideo di <i>auto-</i> povas tradukesar per <i>su-</i> (ex. <i>su-defenso</i>) o per <i>propra</i> (ex.: <i>propr-amo</i>).</p>
-						</div>
-						<div class="ui divider"></div>
-						<center><a class="ui button" href="2.5.1.2.html"><i class="left arrow icon"></i>A la preiranta pagino</a>
-						<a class="ui button" href="2.5.1.4.html">A la sequanta pagino<i class="right arrow icon"></i></a></center>
-					</div>
-				</td>
-			</tr>
-		</table>
+		<div class="ui sidebar inverted vertical menu">
+			<div id="menuo"></div>
+		</div>
+		<div style="margin-top:40px; margin-bottom:40px; margin-left:40px; margin-right:40px">
+			<center>
+				<a class="ui primary left attached icon button" href="../index.html"><i class="home icon"></i></a>
+				<a class="ui primary right attached icon button" id="indexo"><i class="list layout icon"></i></a>
+			</center>
+			<h1>auto-</h1>
+			<div class="ui divider"></div>
+			<p>Quale <b>anti-</b>, ta prefixo repulsesis « kom prefixo generale aplikebla, ed adoptesis kom prefixo rezervenda a la ciencala e teknikala terminaro<sup><a name="Noto1" href="#Paginonoto1">[1]</a></sup>.</p>
+			<div class="ui divider"></div>
+			<div style="margin-left:40; color:#4c4c4c;">
+				<p><a name="Paginonoto1" href="#Noto1">[1]</a> Sama remarki kam pri <i>anti-</i>. L'ideo di <i>auto-</i> povas tradukesar per <i>su-</i> (ex. <i>su-defenso</i>) o per <i>propra</i> (ex.: <i>propr-amo</i>).</p>
+			</div>
+			<div class="ui divider"></div>
+			<center>
+				<div class="ui buttons">
+					<a class="ui left labeled icon button" href="2.5.1.2.html"><i class="left arrow icon"></i>Preiranta pagino</a>
+					<a class="ui right labeled icon button" href="2.5.1.4.html">Sequanta pagino<i class="right arrow icon"></i></a>
+				</div>
+			</center>
+		</div>
 	</body>
 </html>

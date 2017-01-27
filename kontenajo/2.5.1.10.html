@@ -10,26 +10,39 @@
 				$("#menuo").load("menuo.xml"); 
 			});
 		</script>
+		<script>
+			$(document).ready(function() {
+				$("#indexo").click(function() {
+					$('.ui.sidebar')
+						.sidebar('setting', 'transition', 'overlay')
+						.sidebar('toggle')
+					;
+				});
+			});
+		</script>
+
 	</head>
 	<body>
-		<table style="width:100%">
-			<tr>
-				<td style="width:25%">
-					<div class="ui raised segment" style="width:25%" id="menuo"></div>
-				</td>
-				<td style="width:75%">
-					<div style="margin-top:20px; margin-bottom:20px; margin-left:40px; margin-right:20px">
-						<h1>mi-</h1>
-						<div class="ui divider"></div>
-						<p>Ta prefixo internaciona quik adoptesis. Ol signifikas: <i>duime</i>. Ex.: <b>lasez la pordo miapertita</b>; <b>kun miklozita okuli</b>; <b>il parolis mivoce</b>; <b>laboro mifacita</b>; <b>mimortinta pro</b> (o <b>de</b>) <b>koldeso</b>; <b>pos mihoro</b>.</p>
-						<p>Per rezulto di rimariajo povas existar <b>mifrati</b> o <b>stifa frati</b> (vid. <b>bo-</b>). L'unesmi esas ti qui havas o la sama patrulo o la sama patrino. La duesmi esas la filii quin havas de sua unesma mariajo vua <i>stifa</i> patrulo o patrino. Fakte nek li, nek la stifa patrulo esas parenta kun vu.</p>
-						<p>Do <i>mi-patrulo</i> nek <i>mipatrino</i> (o <i>mimatro</i>) povas existar, nek anke <i>mifilio</i>, en Ido, pro ke li ne existas en la naturo; e nun kande <i>stifa</i> adoptesis, li ne plus darfas uzesar.</p>
-						<div class="ui divider"></div>
-						<center><a class="ui button" href="2.5.1.9.html"><i class="left arrow icon"></i>A la preiranta pagino</a>
-						<a class="ui button" href="2.5.1.11.html">A la sequanta pagino<i class="right arrow icon"></i></a></center>
-					</div>
-				</td>
-			</tr>
-		</table>
+		<div class="ui sidebar inverted vertical menu">
+			<div id="menuo"></div>
+		</div>
+		<div style="margin-top:40px; margin-bottom:40px; margin-left:40px; margin-right:40px">
+			<center>
+				<a class="ui primary left attached icon button" href="../index.html"><i class="home icon"></i></a>
+				<a class="ui primary right attached icon button" id="indexo"><i class="list layout icon"></i></a>
+			</center>
+			<h1>mi-</h1>
+			<div class="ui divider"></div>
+			<p>Ta prefixo internaciona quik adoptesis. Ol signifikas: <i>duime</i>. Ex.: <b>lasez la pordo miapertita</b>; <b>kun miklozita okuli</b>; <b>il parolis mivoce</b>; <b>laboro mifacita</b>; <b>mimortinta pro</b> (o <b>de</b>) <b>koldeso</b>; <b>pos mihoro</b>.</p>
+			<p>Per rezulto di rimariajo povas existar <b>mifrati</b> o <b>stifa frati</b> (vid. <b>bo-</b>). L'unesmi esas ti qui havas o la sama patrulo o la sama patrino. La duesmi esas la filii quin havas de sua unesma mariajo vua <i>stifa</i> patrulo o patrino. Fakte nek li, nek la stifa patrulo esas parenta kun vu.</p>
+			<p>Do <i>mi-patrulo</i> nek <i>mipatrino</i> (o <i>mimatro</i>) povas existar, nek anke <i>mifilio</i>, en Ido, pro ke li ne existas en la naturo; e nun kande <i>stifa</i> adoptesis, li ne plus darfas uzesar.</p>
+			<div class="ui divider"></div>
+			<center>
+				<div class="ui buttons">
+					<a class="ui left labeled icon button" href="2.5.1.9.html"><i class="left arrow icon"></i>Preiranta pagino</a>
+					<a class="ui right labeled icon button" href="2.5.1.11.html">Sequanta pagino<i class="right arrow icon"></i></a>
+				</div>
+			</center>
+		</div>
 	</body>
 </html>

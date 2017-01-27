@@ -10,69 +10,82 @@
 				$("#menuo").load("menuo.xml"); 
 			});
 		</script>
+		<script>
+			$(document).ready(function() {
+				$("#indexo").click(function() {
+					$('.ui.sidebar')
+						.sidebar('setting', 'transition', 'overlay')
+						.sidebar('toggle')
+					;
+				});
+			});
+		</script>
+
 	</head>
 	<body>
-		<table style="width:100%">
-			<tr>
-				<td style="width:25%">
-					<div class="ui raised segment" style="width:25%" id="menuo"></div>
-				</td>
-				<td style="width:75%">
-					<div style="margin-top:20px; margin-bottom:20px; margin-left:40px; margin-right:20px">
-						<h1>Pronuncado di la vokali</h1>
-						<div class="ui divider"></div>
-						<p>En Ido, la vokali havas meza sonoduro, quale en l'Italiana. On pronuncas li:</p>
-						<center><table class="ui collapsing celled table" style="text-align:center;">
-							<thead>
-								<tr>
-									<th>Litero</th>
-									<th>En IFA<sup><a name="Noto1" href="#Paginonoto1">[1]</a></sup></th>
-									<th>Noto</th>
-								</tr>
-							</thead>
-							<tbody>
-								<tr>
-									<td>A, a</td>
-									<td>/a/</td>
-									<td style="text-align:left;"><b>a</b> ne tro apertita, nam ol havus graveso desagreabla; ne tro klozita, nam ol esus ne sat bone dicernebla. On atencez precipue, ke la dezinenco <b>a</b> dil adjektivi esez nultempe pronuncata quale <i>ä</i> Germana, <i>è</i> od <i>é</i> Franca. Ol sonez <b>a</b> tre pure, quale en l'Italiana.</td>
-								<tr>
-								<tr>
-									<td>E, e</td>
-									<td>/e/ od /ɛ/</td>
-									<td  style="text-align:left;" rowspan="3">
-										<p><b>e</b>, <b>o</b>, apertita o klozita, se nur on audigas li en maniero donanta dicernebleso senduba. — Notez bone, ke la vokalo e nultempe esas muta, quale en Franca linguo<sup><a name="Noto2" href="#Paginonoto2">[2]</a></sup>.</p>
-									</td>
-								<tr>
-								<tr>
-									<td>O, o</td>
-									<td>/o/ od /ɔ/</td>
-								<tr>
-								<tr>
-									<td>U, u</td>
-									<td>/u/</td>
-									<td style="text-align:left;"><b>u</b> sempre devas pronuncata quale <i>u</i> Italiana o Germana; nultempe quale <i>u</i> Franca o <i>ü</i> Germana. Ol sonas quale la Franca grupo <i>ou</i>.</td>
-								<tr>
-							</tbody>
-						</table></center>
-						<p>Kande <b>u</b> sequas nemediate <b>a</b> od <b>e</b>, ol formacas kun ici diftongo, qua esas pronuncata <i>unsilabe</i>. La sono <b>u</b> devas audesar quik pos <b>a</b>, <b>e</b> quaze sen intertempo, ma <b>a</b>, <b>e</b> recevas la chefa esforco di la voco : <b>Australia</b>, <b>Europa</b>, <b>laute</b>, <b>neutra</b>.</p>
-						<p>Ma, se la renkontro di <b>a</b>, <b>e</b> kun <b>u</b> rezultas de prefixo o sufixo adjuntita a radiko, quale en <b>neutila</b> (<i>ne-utila</i>), <b>kreuro</b> (<i>kre-uro</i>), lore <b>au</b>, <b>du</b> ne plus facas diftongo, e singla vokalo apartenas a silabo partikulara. Konseque singla esas aparte pronuncata, quale indikesas per (<i>ne-utila</i> e <i>kre-uro</i>) supere.</p>
-						<p>Sequanta <b>q</b> o <b>g</b>, la litero <b>u</b> = <b>w</b><sup><a name="Noto3" href="#Paginonoto3">[3]</a></sup> avan vokalo. Ol do sonas quale <b>u</b> en la duesma silabo di <i>aquatic</i> Angla, <i>aquatique</i> Franca, <i>acquatico</i> Italiana, <i>acuatico</i> Hispana. Exemple: <b>qua</b>, <b>quar</b>, <b>quo</b>, <b>qui</b>, <b>guidar</b>, <b>linguo</b>, <b>lingue</b>, <b>linguala</b> = <i>qwa</i>, <i>qwar</i>, <i>qwo</i>, <i>qwi</i>, <i>gwidar</i>, <i>lingwo</i>, <i>lingwe</i>, <i>lingwala</i>.</p>
-						<p>Du sama vokali sucedanta (<i>ii</i>, <i>ee</i>, <i>oo</i>) devas ne ligesar konfuze, ma pronuncesar separite: <b>alopatiisto</b>, <b>antee</b>, <b>heroo</b>. To esas explicite fixigita dal decidi akademiala 815 e 816 (<i>Progreso</i>, V, 723).</p>
-						<div class="ui divider"></div>
-						<div style="margin-left:40; color:#4c4c4c;">
-							<p><a name="Paginonoto1" href="#Noto1">[1]</a> La <b>I</b>nternaciona <b>F</b>onetikala <b>A</b>lfabeto (International Phonetic Alaphabet - IPA) esas fonetikala alfabeto qua kategorizas singla posibla soni. Serchez l'Angla nomo, ed askolez ye lua retloko quale korekte pronuncar la soni.</p>
-							<p><a name="Paginonoto2" href="#Noto2">[2]</a> Por obtenar plu granda fixeso en la pronunco di ta du vokali, on darfas sequar la yena indiko, qua esas ne regulo ma konsilo utila por preventar hezito:</p>
-							<p>« On <i>klozas</i> la vokali <b>e</b>, <b>o</b> en silabo <i>apertita</i> (finanta per vokalo). Ex.: <i>mé</i>, <i>bôné</i>, <i>dômô</i>.</p>
-							<p>On <i>apertas</i> la vokali <b>e</b>, <b>o</b> en silabo <i>klozita</i> (finanta per konsonanto). Ex.: <i>sèmpré</i>, <i>fénèstrô</i>, <i>pòrdô</i>, <i>òmna</i>, <i>mèntô</i>. »</p>
-							<p>Tale la pronunco esas plu fixa ed eufonioza. Ma co esas nur konsilo e nuleregulo obliganta. Nur importas, ma <i>tre importas</i>, la klara pronunco di ta vokalie lia rispektiva dicernebleso de la ceteri (Segun <i>Progreso</i>, VII, 400).</p>
-							<p><a name="Paginonoto3" href="#Noto3">[3]</a> Videz plu fore, ye w, « Pronunco dil konsonanti e digrami ».</p>
-						</div>
-						<div class="ui divider"></div>
-						<center><a class="ui button" href="1.1.html"><i class="left arrow icon"></i>A la preiranta pagino</a>
-						<a class="ui button" href="1.2.2.html">A la sequanta pagino<i class="right arrow icon"></i></a></center>
-					</div>
-				</td>
-			</tr>
-		</table>
+		<div class="ui sidebar inverted vertical menu">
+			<div id="menuo"></div>
+		</div>
+		<div style="margin-top:40px; margin-bottom:40px; margin-left:40px; margin-right:40px">
+			<center>
+				<a class="ui primary left attached icon button" href="../index.html"><i class="home icon"></i></a>
+				<a class="ui primary right attached icon button" id="indexo"><i class="list layout icon"></i></a>
+			</center>
+			<h1>Pronuncado di la vokali</h1>
+			<div class="ui divider"></div>
+			<p>En Ido, la vokali havas meza sonoduro, quale en l'Italiana. On pronuncas li:</p>
+			<center><table class="ui collapsing celled table" style="text-align:center;">
+				<thead>
+					<tr>
+						<th>Litero</th>
+						<th>En IFA<sup><a name="Noto1" href="#Paginonoto1">[1]</a></sup></th>
+						<th>Noto</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>A, a</td>
+						<td>/a/</td>
+						<td style="text-align:left;"><b>a</b> ne tro apertita, nam ol havus graveso desagreabla; ne tro klozita, nam ol esus ne sat bone dicernebla. On atencez precipue, ke la dezinenco <b>a</b> dil adjektivi esez nultempe pronuncata quale <i>ä</i> Germana, <i>è</i> od <i>é</i> Franca. Ol sonez <b>a</b> tre pure, quale en l'Italiana.</td>
+					<tr>
+					<tr>
+						<td>E, e</td>
+						<td>/e/ od /ɛ/</td>
+						<td  style="text-align:left;" rowspan="3">
+							<p><b>e</b>, <b>o</b>, apertita o klozita, se nur on audigas li en maniero donanta dicernebleso senduba. — Notez bone, ke la vokalo e nultempe esas muta, quale en Franca linguo<sup><a name="Noto2" href="#Paginonoto2">[2]</a></sup>.</p>
+						</td>
+					<tr>
+					<tr>
+						<td>O, o</td>
+						<td>/o/ od /ɔ/</td>
+					<tr>
+					<tr>
+						<td>U, u</td>
+						<td>/u/</td>
+						<td style="text-align:left;"><b>u</b> sempre devas pronuncata quale <i>u</i> Italiana o Germana; nultempe quale <i>u</i> Franca o <i>ü</i> Germana. Ol sonas quale la Franca grupo <i>ou</i>.</td>
+					<tr>
+				</tbody>
+			</table></center>
+			<p>Kande <b>u</b> sequas nemediate <b>a</b> od <b>e</b>, ol formacas kun ici diftongo, qua esas pronuncata <i>unsilabe</i>. La sono <b>u</b> devas audesar quik pos <b>a</b>, <b>e</b> quaze sen intertempo, ma <b>a</b>, <b>e</b> recevas la chefa esforco di la voco : <b>Australia</b>, <b>Europa</b>, <b>laute</b>, <b>neutra</b>.</p>
+			<p>Ma, se la renkontro di <b>a</b>, <b>e</b> kun <b>u</b> rezultas de prefixo o sufixo adjuntita a radiko, quale en <b>neutila</b> (<i>ne-utila</i>), <b>kreuro</b> (<i>kre-uro</i>), lore <b>au</b>, <b>du</b> ne plus facas diftongo, e singla vokalo apartenas a silabo partikulara. Konseque singla esas aparte pronuncata, quale indikesas per (<i>ne-utila</i> e <i>kre-uro</i>) supere.</p>
+			<p>Sequanta <b>q</b> o <b>g</b>, la litero <b>u</b> = <b>w</b><sup><a name="Noto3" href="#Paginonoto3">[3]</a></sup> avan vokalo. Ol do sonas quale <b>u</b> en la duesma silabo di <i>aquatic</i> Angla, <i>aquatique</i> Franca, <i>acquatico</i> Italiana, <i>acuatico</i> Hispana. Exemple: <b>qua</b>, <b>quar</b>, <b>quo</b>, <b>qui</b>, <b>guidar</b>, <b>linguo</b>, <b>lingue</b>, <b>linguala</b> = <i>qwa</i>, <i>qwar</i>, <i>qwo</i>, <i>qwi</i>, <i>gwidar</i>, <i>lingwo</i>, <i>lingwe</i>, <i>lingwala</i>.</p>
+			<p>Du sama vokali sucedanta (<i>ii</i>, <i>ee</i>, <i>oo</i>) devas ne ligesar konfuze, ma pronuncesar separite: <b>alopatiisto</b>, <b>antee</b>, <b>heroo</b>. To esas explicite fixigita dal decidi akademiala 815 e 816 (<i>Progreso</i>, V, 723).</p>
+			<div class="ui divider"></div>
+			<div style="margin-left:40; color:#4c4c4c;">
+				<p><a name="Paginonoto1" href="#Noto1">[1]</a> La <b>I</b>nternaciona <b>F</b>onetikala <b>A</b>lfabeto (International Phonetic Alaphabet - IPA) esas fonetikala alfabeto qua kategorizas singla posibla soni. Serchez l'Angla nomo, ed askolez ye lua retloko quale korekte pronuncar la soni.</p>
+				<p><a name="Paginonoto2" href="#Noto2">[2]</a> Por obtenar plu granda fixeso en la pronunco di ta du vokali, on darfas sequar la yena indiko, qua esas ne regulo ma konsilo utila por preventar hezito:</p>
+				<p>« On <i>klozas</i> la vokali <b>e</b>, <b>o</b> en silabo <i>apertita</i> (finanta per vokalo). Ex.: <i>mé</i>, <i>bôné</i>, <i>dômô</i>.</p>
+				<p>On <i>apertas</i> la vokali <b>e</b>, <b>o</b> en silabo <i>klozita</i> (finanta per konsonanto). Ex.: <i>sèmpré</i>, <i>fénèstrô</i>, <i>pòrdô</i>, <i>òmna</i>, <i>mèntô</i>. »</p>
+				<p>Tale la pronunco esas plu fixa ed eufonioza. Ma co esas nur konsilo e nuleregulo obliganta. Nur importas, ma <i>tre importas</i>, la klara pronunco di ta vokalie lia rispektiva dicernebleso de la ceteri (Segun <i>Progreso</i>, VII, 400).</p>
+				<p><a name="Paginonoto3" href="#Noto3">[3]</a> Videz plu fore, ye w, « Pronunco dil konsonanti e digrami ».</p>
+			</div>
+			<div class="ui divider"></div>
+			<center>
+				<div class="ui buttons">
+					<a class="ui left labeled icon button" href="1.1.html"><i class="left arrow icon"></i>Preiranta pagino</a>
+					<a class="ui right labeled icon button" href="1.2.2.html">Sequanta pagino<i class="right arrow icon"></i></a>
+				</div>
+			</center>
+		</div>
 	</body>
 </html>

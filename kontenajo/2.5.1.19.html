@@ -10,25 +10,38 @@
 				$("#menuo").load("menuo.xml"); 
 			});
 		</script>
+		<script>
+			$(document).ready(function() {
+				$("#indexo").click(function() {
+					$('.ui.sidebar')
+						.sidebar('setting', 'transition', 'overlay')
+						.sidebar('toggle')
+					;
+				});
+			});
+		</script>
+
 	</head>
 	<body>
-		<table style="width:100%">
-			<tr>
-				<td style="width:25%">
-					<div class="ui raised segment" style="width:25%" id="menuo"></div>
-				</td>
-				<td style="width:75%">
-					<div style="margin-top:20px; margin-bottom:20px; margin-left:40px; margin-right:20px">
-						<h1>retro-</h1>
-						<div class="ui divider"></div>
-						<p>Ta prefixo Latina, nun internaciona, esas quaze adverbo per sua senco; ol quik adoptesis por indikar <i>la ago inversa</i> di ta quan indikas sen olu la vorto fundamentala: <b>retrocedar</b> = <i>cedar ad ulu to quon ol cedabis a ni</i>; <b>retroirar</b> = <i>irar ad-dope</i>, <i>desavance</i>; <b>retropulsar</b> = <i>irigar desavance per pulso</i>; <b>retrovenar</b> = <i>venar per iro inversa al loko de ube on departabis</i>. Ex.: <b>me livis la hemo ye duadek kloki e retrovenis en lu ye duadek e tri quarimi.</b> — <b>Retroagiva</b> = <i>qua povas agar</i>, <i>efikar pri kozi antea</i>, <i>pri lo pasinta</i>: <b>la lego ne havas efekto retroagiva</b>.</p>
-						<p>Pro sua senco intime adverbala, <b>retro</b> darfas uzesar izolite, kom adverbo: <b>Retroe! ne plus avancez: esas danjero.</b></p>
-						<div class="ui divider"></div>
-						<center><a class="ui button" href="2.5.1.18.html"><i class="left arrow icon"></i>A la preiranta pagino</a>
-						<a class="ui button" href="2.5.1.20.html">A la sequanta pagino<i class="right arrow icon"></i></a></center>
-					</div>
-				</td>
-			</tr>
-		</table>
+		<div class="ui sidebar inverted vertical menu">
+			<div id="menuo"></div>
+		</div>
+		<div style="margin-top:40px; margin-bottom:40px; margin-left:40px; margin-right:40px">
+			<center>
+				<a class="ui primary left attached icon button" href="../index.html"><i class="home icon"></i></a>
+				<a class="ui primary right attached icon button" id="indexo"><i class="list layout icon"></i></a>
+			</center>
+			<h1>retro-</h1>
+			<div class="ui divider"></div>
+			<p>Ta prefixo Latina, nun internaciona, esas quaze adverbo per sua senco; ol quik adoptesis por indikar <i>la ago inversa</i> di ta quan indikas sen olu la vorto fundamentala: <b>retrocedar</b> = <i>cedar ad ulu to quon ol cedabis a ni</i>; <b>retroirar</b> = <i>irar ad-dope</i>, <i>desavance</i>; <b>retropulsar</b> = <i>irigar desavance per pulso</i>; <b>retrovenar</b> = <i>venar per iro inversa al loko de ube on departabis</i>. Ex.: <b>me livis la hemo ye duadek kloki e retrovenis en lu ye duadek e tri quarimi.</b> — <b>Retroagiva</b> = <i>qua povas agar</i>, <i>efikar pri kozi antea</i>, <i>pri lo pasinta</i>: <b>la lego ne havas efekto retroagiva</b>.</p>
+			<p>Pro sua senco intime adverbala, <b>retro</b> darfas uzesar izolite, kom adverbo: <b>Retroe! ne plus avancez: esas danjero.</b></p>
+			<div class="ui divider"></div>
+			<center>
+				<div class="ui buttons">
+					<a class="ui left labeled icon button" href="2.5.1.18.html"><i class="left arrow icon"></i>Preiranta pagino</a>
+					<a class="ui right labeled icon button" href="2.5.1.20.html">Sequanta pagino<i class="right arrow icon"></i></a>
+				</div>
+			</center>
+		</div>
 	</body>
 </html>

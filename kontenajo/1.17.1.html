@@ -10,30 +10,43 @@
 				$("#menuo").load("menuo.xml"); 
 			});
 		</script>
+		<script>
+			$(document).ready(function() {
+				$("#indexo").click(function() {
+					$('.ui.sidebar')
+						.sidebar('setting', 'transition', 'overlay')
+						.sidebar('toggle')
+					;
+				});
+			});
+		</script>
+
 	</head>
 	<body>
-		<table style="width:100%">
-			<tr>
-				<td style="width:25%">
-					<div class="ui raised segment" style="width:25%" id="menuo"></div>
-				</td>
-				<td style="width:75%">
-					<div style="margin-top:20px; margin-bottom:20px; margin-left:40px; margin-right:20px">
-						<h1>Ad/a</h1>
-						<div class="ui divider"></div>
-						<p><b>Ad</b> (o <b>a</b>, kande eufonio permisas, ma nultempe en kompozajo<sup><a name="Noto1" href="#Paginonoto1">[1]</a></sup>), uzesas por indikar la skopo di la ago, la loko quan on volas antingar, la destinario, la persono a qua on donas od atribuas ulo:</p>
-						<p>Ex.: <b>me iras a la rivero</b>; <b>me sendas to ad amiko</b>; <b>Henrikus donis a me multa flori</b>; <b>on imputis ad ilu ta ago abomininda</b>; <b>la patrulo imperis a sua filii sequar ilu</b>; <b>el agis a sua matro, ne quale filio, ma quale enemiko</b>.</p>
-						<p>Konseque, <b>ad</b> indikas logike l'objekto di ula penso o sentimento, per opozo a la « subjekto » qua havas li: <b>pensar a la futuro</b>; <b>la amo a Deo</b> (komparez: <b>la amo di Dio</b>, por la homi, exemple); <b>la envidio a la richi</b>. Se to postulesas da la klareso, <b>ad</b> darfas esar unionita al prepozicioni <i>en</i>, <i>sur</i>, <i>sub</i>. Ex.: <b>l'infanto iris aden la gardeno</b>; <b>la kato saltis adsur la tablo</b>; <b>la muso kuris adsub la lito</b>. Sen <b>ad</b> on ne savus kad la subjekti, « infanto, kato, muso » iris, saltis, kuris, per chanjo di loko, <i>aden la gardeno</i>, <i>adsur la tablo</i>, <i>adsub la lito</i>, o kad li iris, saltis, kuris ibe, esante ja <i>en</i>, <i>sur</i> o <i>sub</i> la kozi nomata.</p>
-						<div class="ui divider"></div>
-						<div style="margin-left:40; color:#4c4c4c;">
-							<p><a name="Paginonoto1" href="#Noto1">[1]</a> « Kande on decidis, pro eufonio, elizionar la tri vorti <i>ad</i>, <i>ed</i>, <i>od</i>, on decidis, ke on ne elizionos li (t.e. fakte nur <i>ad</i>) en la kompozado, pro ke on timis, ke en la kompozaji <b>a</b> ne esus sat rikonocebla o sat dicernebla. Ol povus intermixesar, sive kun la prepoziciono <b>a</b>, sive kun la finalo <b>a</b> di l'artiklo o dil adjektivo preiranta. » (<i>Progreso</i>, II, 165.)</p>
-						</div>
-						<div class="ui divider"></div>
-						<center><a class="ui button" href="1.17.html"><i class="left arrow icon"></i>A la preiranta pagino</a>
-						<a class="ui button" href="1.17.2.html">A la sequanta pagino<i class="right arrow icon"></i></a></center>
-					</div>
-				</td>
-			</tr>
-		</table>
+		<div class="ui sidebar inverted vertical menu">
+			<div id="menuo"></div>
+		</div>
+		<div style="margin-top:40px; margin-bottom:40px; margin-left:40px; margin-right:40px">
+			<center>
+				<a class="ui primary left attached icon button" href="../index.html"><i class="home icon"></i></a>
+				<a class="ui primary right attached icon button" id="indexo"><i class="list layout icon"></i></a>
+			</center>
+			<h1>Ad/a</h1>
+			<div class="ui divider"></div>
+			<p><b>Ad</b> (o <b>a</b>, kande eufonio permisas, ma nultempe en kompozajo<sup><a name="Noto1" href="#Paginonoto1">[1]</a></sup>), uzesas por indikar la skopo di la ago, la loko quan on volas antingar, la destinario, la persono a qua on donas od atribuas ulo:</p>
+			<p>Ex.: <b>me iras a la rivero</b>; <b>me sendas to ad amiko</b>; <b>Henrikus donis a me multa flori</b>; <b>on imputis ad ilu ta ago abomininda</b>; <b>la patrulo imperis a sua filii sequar ilu</b>; <b>el agis a sua matro, ne quale filio, ma quale enemiko</b>.</p>
+			<p>Konseque, <b>ad</b> indikas logike l'objekto di ula penso o sentimento, per opozo a la « subjekto » qua havas li: <b>pensar a la futuro</b>; <b>la amo a Deo</b> (komparez: <b>la amo di Dio</b>, por la homi, exemple); <b>la envidio a la richi</b>. Se to postulesas da la klareso, <b>ad</b> darfas esar unionita al prepozicioni <i>en</i>, <i>sur</i>, <i>sub</i>. Ex.: <b>l'infanto iris aden la gardeno</b>; <b>la kato saltis adsur la tablo</b>; <b>la muso kuris adsub la lito</b>. Sen <b>ad</b> on ne savus kad la subjekti, « infanto, kato, muso » iris, saltis, kuris, per chanjo di loko, <i>aden la gardeno</i>, <i>adsur la tablo</i>, <i>adsub la lito</i>, o kad li iris, saltis, kuris ibe, esante ja <i>en</i>, <i>sur</i> o <i>sub</i> la kozi nomata.</p>
+			<div class="ui divider"></div>
+			<div style="margin-left:40; color:#4c4c4c;">
+				<p><a name="Paginonoto1" href="#Noto1">[1]</a> « Kande on decidis, pro eufonio, elizionar la tri vorti <i>ad</i>, <i>ed</i>, <i>od</i>, on decidis, ke on ne elizionos li (t.e. fakte nur <i>ad</i>) en la kompozado, pro ke on timis, ke en la kompozaji <b>a</b> ne esus sat rikonocebla o sat dicernebla. Ol povus intermixesar, sive kun la prepoziciono <b>a</b>, sive kun la finalo <b>a</b> di l'artiklo o dil adjektivo preiranta. » (<i>Progreso</i>, II, 165.)</p>
+			</div>
+			<div class="ui divider"></div>
+			<center>
+				<div class="ui buttons">
+					<a class="ui left labeled icon button" href="1.17.html"><i class="left arrow icon"></i>Preiranta pagino</a>
+					<a class="ui right labeled icon button" href="1.17.2.html">Sequanta pagino<i class="right arrow icon"></i></a>
+				</div>
+			</center>
+		</div>
 	</body>
 </html>
