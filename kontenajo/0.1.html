@@ -1,0 +1,49 @@
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<script src="../jquery/jquery-3.1.1.min.js"></script>
+		<link href="../stilo/stilo.css" rel="stylesheet" type="text/css">
+		<script src="../semantic/dist/semantic.min.js"></script>
+		<link href="../semantic/dist/semantic.css" rel="stylesheet" type="text/css">
+		<script>
+			$(function(){
+				$("#menuo").load("menuo.xml"); 
+			});
+		</script>
+		<script>
+			$(document).ready(function() {
+				$("#indexo").click(function() {
+					$('.ui.sidebar')
+						.sidebar('setting', 'transition', 'overlay')
+						.sidebar('toggle')
+					;
+				});
+			});
+		</script>
+	</head>
+	<body>
+		<div class="ui sidebar inverted vertical menu">
+			<div id="menuo"></div>
+		</div>
+		<div style="margin-top:40px; margin-bottom:40px; margin-left:40px; margin-right:40px">
+			<center>
+				<a class="ui primary left attached icon button" href="../index.html"><i class="home icon"></i></a>
+				<a class="ui primary right attached icon button" id="indexo"><i class="list layout icon"></i></a>
+			</center>
+			<h1>Quo esas Ido?</h1>
+			<div class="ui divider"></div>
+			<p>Ido esas l'idiomo internaciona, helpanta e neutra, qua rezultas de la selekto e labori dil «Délégation» (delegitaro).</p>
+			<p><i>La Délégation pour l'adoption d'une langue auxiliaire internationale</i>, fondita en 1901 (januaro), esis ensemblo de personi delegita da 310 kongresi o societi omnalanda ed omnaskopa, por examinar la multa projeti o sistemi di linguo internaciona, e por adoptar la maxim bona. Til 1907 ol recevabis 1,250 aprobanta signaturi de membri di Akademii od Universitati, qui tale montris sua intereso al entraprezo.</p>
+			<p>Lore ol elektis (junio 1907) internaciona <i>Komitato</i> di ciencisti e linguisti partikulare kompetanta, qui, pos exameno di omna projeti ancien o recenta di Linguo internaciona ante e dum 18 kunsidi, adoptis fine Esperanto kun diversa modifiki. Ta modifiki studiita, kompletigita per laboro komuna, publik ed internaciona, de 1908 til 1914, en la revuo <i>Progreso</i>, havis kom rezultanto la nuna «Ido». Ica konseque ne esas, quale Esperanto, la simpla produkturo di <i>un</i> homo.</p>
+			<p>Esas notenda, ke la Komitato dil <i>Delegitaro</i> kontenis Esperantisti e mem la Prezidero ipsa di la «Lingva Komitato» esperantista. Or la decido adoptanta Esperanto «kun la rezervo di ula modifiki», <b>esis unanima</b>. Se, pose, skismo eventis, la responso ne esas imputeble a l'Idistaro, ma ad ilti qui obliviis promisi, voti o signaturo.</p>
+			<p>La Komitato dil Delegitaro (la maxim kompetenta e maxim senpartisa qua ultempe kunvenis pri linguo internaciona) tale judikesas da Sro Gaston Moch, qua supleis en lu rektoro Emile Boirac, tre eminenta chefo Esperantista: «La lingui Germana e Franca havis ibe tri reprezentanti, la Angla du, e la lingui Dana, Hispana, Greka e Hungariana, un; la maxim diversa konocaji reprezentesis, ed on remarkis en lu nome quar reputata filologi, Sri Baudouin de Courtenay, Jespersen, Lambros e Schuchardt.»</p>
+			<div class="ui divider"></div>
+			<center>
+				<div class="ui buttons">
+					<a class="ui left labeled disabled icon button"><i class="left arrow icon"></i>Preiranta pagino</a>
+					<a class="ui right labeled icon button" href="0.2.html">Sequanta pagino<i class="right arrow icon"></i></a>
+				</div>
+			</center>
+		</div>
+	</body>
+</html>
