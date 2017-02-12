@@ -1,0 +1,60 @@
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<meta id="viewport" content="width=device-width, initial-scale=1">
+		<script src="../jquery/jquery-3.1.1.min.js"></script>
+		<link href="../stilo/stilo.css" rel="stylesheet" type="text/css">
+		<script src="../semantic/dist/semantic.min.js"></script>
+		<link href="../semantic/dist/semantic.css" rel="stylesheet" type="text/css">
+		<script>
+			$(function(){
+				$("#menuo").load("menuo.xml"); 
+			});
+		</script>
+		<script>
+			$(document).ready(function() {
+				$("#indexo").click(function() {
+					$('.ui.sidebar')
+						.sidebar('setting', 'transition', 'overlay')
+						.sidebar('toggle')
+					;
+				});
+			});
+		</script>
+		<script>
+			$(document).ready ( function () {
+				var id  = location.hash.substr(1);
+				if (id) $('#'+id).addClass('highlight');
+			});
+		</script>
+	</head>
+	<body>
+		<div class="ui sidebar inverted vertical menu">
+			<div id="menuo"></div>
+		</div>
+		<div style="margin-top:20px; margin-bottom:20px; margin-left:40px; margin-right:40px">
+			<div style="text-align:center;">
+				<a class="ui left labeled basic blue icon button" href="../index.html"><i class="home icon"></i>Hemo</a>
+				<a class="ui right labeled basic blue right icon button" id="indexo">Menuo<i class="list layout icon"></i></a>
+			</div>
+			<h1>-aj-</h1>
+			<div class="ui divider"></div>
+			<p>Ta sufixo, quik adoptita, havas equivalanti en novlatina lingui. Ol indikas <i>kozo facita ek ula materio</i> o <i>posedanta ca o ta karaktero</i>: <b>lanajo</b> = <i>stofo ek lano</i>; <b>silkajo</b> = <i>stofo ek silko</i>; <b>kotonajo</b> = <i>stofo ek kotono</i>; <b>linajo</b> = <i>texuro ek lino</i>; <b>molajo</b> = <i>mola parto</i> (ex.: mola parto di frukto); <b>grasajo</b> (ex.: grasa parto di karno); <b>ferajo</b> = <i>ulo ek fero</i> (ex.: <b>il vendas olda ferajo, fripi</b>); <b>dolcajo</b> = <i>ulo dolca</i>; <b>bitrajo</b> = <i>ulo bitra</i>; <b>bonajo</b> = <i>ulo bona</i>; <b>verajo</b> = <i>ulo vera</i>; <b>belajo</b> = <i>ulo bela</i>.</p>
+			<p>Per extenso, e kun <i>-al</i>, ta sufixo uzesas por expresar la ideo: <i>ago</i>, <i>parolo</i>, <i>procedo di...</i> Ex.: <b>amikalajo</b> = <i>ago</i>, <i>parolo</i>, <i>procedo di amiko</i>; <b>pueralajo</b> = <i>ago</i>, parolo di puero</i> (puerala). Aplikata a radiko di verbo transitiva, <b>aj</b> <i>indikas la objekto pasiva di la ago</i>(tote ne la rezultajo);<span id="Noto1"> lore ol equivalas <i>-ataj</i><sup><a href="#Paginonoto1">[1]</a></sup></span> e remplasas participo pasiva: <b>drinkajo</b> = <i>drink(at)ajo</i>, <i>kozo drinkata</i> (aquo, biro, vino, e.c.); <b>manjajo</b> = <i>manj(at)ajo</i>, <i>kozo manjata</i> (karno, pano, legumi, e.c.); <b>vidajo</b> = <i>vid(at)ajo</i>, <i>kozo vidata</i> (peizajo, panoramo, e.c.); <b>sendajo</b> = <i>send(at)ajo</i>, <i>kozo</i>, <i>kozi sendata</i>; <b>piktajo</b> = (ne <i>pikturo</i> ma) <i>pikt(at)ajo</i>, <i>to quo esas piktata</i> (personi, kozi, e.c.); <b>skultajo</b> = (ne <i>skulturo</i> ma) <i>skult(at)ajo</i>, <i>to quo esas skultata</i> (viro, muliero); <b>konstruktajo</b> = (ne <i>konstrukturo</i> ma) <i>konstrukt(at)ajo</i>, <i>to quo esas konstruktata</i> (la petri e ligni o fero, e.c., uzata por konstruktar); <b>kopiajo</b> = (ne <i>kopiuro</i> ma) <i>kopi(at)ajo</i> (la texto, modelo, e.c.).<span id="Noto2"> <b>Mea kopiuro esas ne tote fidinda pro ke mea kopiajo esis apene videbla</b><sup><a href="#Paginonoto2">[2]</a></sup></span>.</p>
+			<p>Same, kun la verbi mixita, <b>ajo</b> = <i>a(ta)jo</i> e konseque havas la senco pasiva: <i>chanjajo</i> = kozo <i>chanjata</i>,<span id="Noto3"> ne: kozo <i>chanjanta</i><sup><a href="#Paginonoto3">[3]</a></sup></span>.</p>
+			<p>Aplikata a radiko di verbo netransitiva <b-aj-</b> indikas la <i>subjekto</i> (necese, pro la naturo dil verbo); ol equivalas <i>-(ant)aj</i> e remplasas participo aktiva, pro ke ne existas pasivo en verbo netransitiva: </b>rezultajo</b> = <i>rezult(ant)ajo</i>, <i>to quo rezultas</i>, <i>kozo rezultanta</i>; <b>eventajo</b> = <i>event(ant)ajo</i>, <i>to quo eventas</i>, <i>kozo eventanta</i> (od eventinta). <b>De longe me timis la nuna eventajo, qua esas meaopinione nur la rezultajo di lia intrigi e di vua inerteso.</b> (Dec. 541.)</p>
+			<p>Nultempe <b>aj</b> darfas uzesar kom pejorativo (vice <i>ach</i>),<span id="Noto4"> quale che l'Esperantisti<sup><a href="#Paginonoto4">[4]</a></sup></span>. Nultempe anke ol darfas uzesar, quale che li, vice <b>kozo</b> o <b>afero</b>. Se <b>ajo</b> sola = <i>afero</i>, <i>kozo</i>, ici lasta esas neutila, e vice: «nia sankta afero» o: «mi havas multajn aferojn por fari», suficas dicar: «nia sankta ajho», «mi havas multajn ajhojn por fari». Certe la profani komprenos quik e plu bone kam en Ido: «me havas multa kozi facenda».</p>
+			<div class="ui divider"></div>
+			<div style="margin-left:40; color:#4c4c4c;">
+				<p id="Paginonoto1"><a href="#Noto1">[1]</a> <i>Progreso</i>, III, 482.</p>
+				<p id="Paginonoto2"><a href="#Noto2">[2]</a> <a href="2.5.2.41.html">Videz la sufixo <b>-ur-</b>.</a></p>
+				<p id="Paginonoto3"><a href="#Noto3">[3]</a> Videz en l'unesma parto ye verbi mixita p. 52. ***</p>
+				<p id="Paginonoto4"><a href="#Noto4">[4]</a> Nam ol uzesas tale, mem en stilo tre autoritatoza, adminime en <i>Fundamenta Krestomatio</i>.</p>
+			</div>
+			<div style="text-align:center;">
+				<a class="ui left labeled basic blue icon button" href="2.5.1.5.html"><i class="left arrow icon"></i>Preiranta</a>
+				<a class="ui right labeled basic blue icon button" href="2.5.1.7.html">Sequanta<i class="right arrow icon"></i></a>
+			</div>
+		</div>
+	</body>
+</html>

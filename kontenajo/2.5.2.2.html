@@ -1,0 +1,45 @@
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<script src="../jquery/jquery-3.1.1.min.js"></script>
+		<link href="../stilo/stilo.css" rel="stylesheet" type="text/css">
+		<script src="../semantic/dist/semantic.min.js"></script>
+		<link href="../semantic/dist/semantic.css" rel="stylesheet" type="text/css">
+		<script>
+			$(function(){
+				$("#menuo").load("menuo.xml"); 
+			});
+		</script>
+		<script>
+			$(document).ready(function() {
+				$("#indexo").click(function() {
+					$('.ui.sidebar')
+						.sidebar('setting', 'transition', 'overlay')
+						.sidebar('toggle')
+					;
+				});
+			});
+		</script>
+	</head>
+	<body>
+		<div class="ui sidebar inverted vertical menu">
+			<div id="menuo"></div>
+		</div>
+		<div style="margin-top:20px; margin-bottom:20px; margin-left:40px; margin-right:40px">
+			<div style="text-align:center;">
+				<a class="ui left labeled basic blue icon button" href="../index.html"><i class="home icon"></i>Hemo</a>
+				<a class="ui right labeled basic blue right icon button" id="indexo">Menuo<i class="list layout icon"></i></a>
+			</div>
+			<h1>-ach-</h1>
+			<div class="ui divider"></div>
+			<p>Ta sufixo, inspirita dal Italiana <i>-accio</i>, quik substitucesis ad <b>ac</b> propozita, kom <i>pejorativo</i>. La Komitato di la Delegitaro judikis ol plu expresiva kam <i>ac</i>. Per <i>pejorativa</i> sufixo on expresas <i>qualeso tre infra</i>, <i>nuanco di desestimo</i>, <i>antipatio</i>, <i>repugneso</i>: <b>kavalache</b> = <i>kavalo di infra</i>, <i>di mala qualeso</i>; <b>populacho</b> = <i>infra populo</i>, <i>grosiera</i>, <i>maledukita</i>; <b>belacho</b> = <i>di qua la beleso insipida</i>, <i>neexpresiva</i>, <i>havas nula charmo</i>; <b>dolcacha</b> = <i>di dolceso sensapora</i> e, pri personi, <i>di dolceso simulata</i>; <b>bravacho</b> = <i>falsa bravo qua simulas braveso</i>; <b>paperacho</b> = <i>papero tote neutila</i>, <i>sen ul valoro</i>, <i>ne konservinda</i>. <b>Il ne kantas, ma kantachas. Quale dormar sur ta litacho?</b> <b>Ico vino! ha no, certe, ma vinacho nedrinkebla.</b></p>
+			<p>Ta sufixo devas nultempe uzesar kom diminutivo. Exemple, <b>brilacho</b> esas <i>falsa brilo</i> e nule <b>brileto</b> = <i>brilo febla</i>.</p>
+			<p>Same ol devas ne uzesar pri la organi o funcioni di la bestii, ecepte se on volas expresar repugneso: la bestii (quale ni) havas <i>boko</i>, <i>pedi</i>, e.c., e (quale ni) <i>manjas</i>, <i>drinkas</i>, e.c. <b>No, me ne povas asentar, ke la hipopotamo havas boko: ol havas bokacho.</b></p>
+			<div style="text-align:center;">
+				<a class="ui left labeled basic blue icon button" href="2.5.2.1.html"><i class="left arrow icon"></i>Preiranta</a>
+				<a class="ui right labeled basic blue icon button" href="2.5.2.3.html">Sequanta<i class="right arrow icon"></i></a>
+			</div>
+		</div>
+	</body>
+</html>

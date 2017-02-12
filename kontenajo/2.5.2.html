@@ -1,0 +1,43 @@
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<script src="../jquery/jquery-3.1.1.min.js"></script>
+		<link href="../stilo/stilo.css" rel="stylesheet" type="text/css">
+		<script src="../semantic/dist/semantic.min.js"></script>
+		<link href="../semantic/dist/semantic.css" rel="stylesheet" type="text/css">
+		<script>
+			$(function(){
+				$("#menuo").load("menuo.xml"); 
+			});
+		</script>
+		<script>
+			$(document).ready(function() {
+				$("#indexo").click(function() {
+					$('.ui.sidebar')
+						.sidebar('setting', 'transition', 'overlay')
+						.sidebar('toggle')
+					;
+				});
+			});
+		</script>
+	</head>
+	<body>
+		<div class="ui sidebar inverted vertical menu">
+			<div id="menuo"></div>
+		</div>
+		<div style="margin-top:20px; margin-bottom:20px; margin-left:40px; margin-right:40px">
+			<div style="text-align:center;">
+				<a class="ui left labeled basic blue icon button" href="../index.html"><i class="home icon"></i>Hemo</a>
+				<a class="ui right labeled basic blue right icon button" id="indexo">Menuo<i class="list layout icon"></i></a>
+			</div>
+			<h1>Sufixi</h1>
+			<div class="ui divider"></div>
+			<p>Quale ni dicis ye «Derivado per afixi», la sufixi insertesas inter la radiko e la dezinenco, segun l'ordino en qua li aplikesas ica ad ita, se pluri uzesas.</p>
+			<div style="text-align:center;">
+				<a class="ui left labeled basic blue icon button" href="2.5.1.22.html"><i class="left arrow icon"></i>Preiranta</a>
+				<a class="ui right labeled basic blue icon button" href="2.5.2.1.html">Sequanta<i class="right arrow icon"></i></a>
+			</div>
+		</div>
+	</body>
+</html>

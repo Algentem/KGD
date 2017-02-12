@@ -10,6 +10,14 @@ h1, h2, h3, h4, h5, h6 {
 	font-weight: 100;
 }
 
+span.highlight {
+	background-color: #ffff99;
+}
+
+p.highlight {
+	background-color: #ffff99;
+}
+
 a:link, a:visited {
 	color: #4a586e;
 	text-decoration: none;
