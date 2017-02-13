@@ -10,6 +10,14 @@ h1, h2, h3, h4, h5, h6 {
 	font-weight: 100;
 }
 
+.ido {
+	color: #2185d0;
+}
+
+ido {
+	color: #2185d0;
+}
+
 span.highlight {
 	background-color: #ffff99;
 }
